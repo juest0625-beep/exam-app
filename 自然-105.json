@@ -6,7 +6,7 @@
       "answerOptions": [
         {
           "text": "(A) 在客廳聞到廚房飄來的飯菜味",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -43,7 +43,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -60,7 +60,7 @@
       "answerOptions": [
         {
           "text": "(A) 黑蟲在此環境中較白蟲易存活",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "text": "(D) 黑色金屬球較易吸收輻射熱",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -119,7 +119,7 @@
         },
         {
           "text": "(B) 肥皂水",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -146,7 +146,7 @@
         },
         {
           "text": "(B) 引進外來種繁衍會改變原來的平衡",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -178,7 +178,7 @@
         },
         {
           "text": "(C) 此兩種作用皆可進行",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -200,7 +200,7 @@
         },
         {
           "text": "(B) 外溫動物，主要從外界環境吸收熱量維持體溫",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -222,7 +222,7 @@
       "answerOptions": [
         {
           "text": "(A) 太平洋高壓籠罩，天氣狀況穩定",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -254,7 +254,7 @@
         },
         {
           "text": "(C) 地震強度",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -281,7 +281,7 @@
         },
         {
           "text": "(B) 甲：固態，乙：氣態，丙：液態 X（甲狀態） ＞X（乙狀態） >X（丙狀態）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -313,7 +313,7 @@
         },
         {
           "text": "(C) 3 m/s Q",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -340,7 +340,7 @@
         },
         {
           "text": "(C) 丙 乙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -372,7 +372,7 @@
         },
         {
           "text": "(D) 丙，視野範圍縮小 圖（八）是某地在一年中，白盐與黑夜与 1 在一天中所占的時間",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -384,7 +384,7 @@
       "answerOptions": [
         {
           "text": "(A) 該地應該位在赤道以南的地區",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -416,7 +416,7 @@
         },
         {
           "text": "(B) 目",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -453,7 +453,7 @@
         },
         {
           "text": "(D) 葵瓜子為種子，南瓜子為果實 100 向日葵雌蕊 南瓜雌蕊 圖（九）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -465,7 +465,7 @@
       "answerOptions": [
         {
           "text": "(A) 甲、乙、丙三層的地層幾乎是水平狀態",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -507,7 +507,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -529,7 +529,7 @@
         },
         {
           "text": "(C) 乙和丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -628,22 +628,22 @@
         {
           "text": "(A) 波長",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 波速",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 振幅",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 頻率",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -655,22 +655,22 @@
         {
           "text": "(A) 08:00~10:00 表（三）",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 10:00~12:00 第一次乾潮時間第一次乾潮時間",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 14:00~16:00 08:09 20:40",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 18:00~",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -682,22 +682,22 @@
         {
           "text": "(A) 兩磁鐵所受合力均為零",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 兩磁鐵所受合力均不為零 水平桌面 圖（十四）",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 磁鐵甲所受合力為零，磁鐵乙所受合力不為零，且合力方向向上",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 磁鐵乙所受合力為零，磁鐵甲所受合力不為零，且合力方向向下",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -709,22 +709,22 @@
         {
           "text": "(A) 200mL",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 400 mL",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 300mL",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 600mL",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -736,22 +736,22 @@
         {
           "text": "(A) 澱粉",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 葡萄糖 4 表（四）",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 分解澱粉的酵素",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 分解葡萄糖的酵素 試管 甲 乙 丙 所含的物質",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -763,22 +763,22 @@
         {
           "text": "(A) 16g 物質 反應前質量（g） •反應後質量（g）",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 22g",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 33g",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 88g 丙 0 36",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -844,22 +844,22 @@
         {
           "text": "(A) 僅甲、乙有 5B）僅甲、丙有",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 甲、乙、丙皆有",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 、乙、内皆沒有 微血管- 心臟 一西一 圖（十七） 33. 火柴是利用摩擦生熱的取火工具，某種火柴是以火柴頭與火柴盒側邊擦劃，同時 產生熱能，再促使火柴頭成分中",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(A) 氧化劑和氣化鉀",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -871,22 +871,22 @@
         {
           "text": "(A) 氧化劑和氣化鉀",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 氧化劑和二氧化硫",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 還原劑和氣化鉀",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 還原劑和二氧化硫",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -952,22 +952,22 @@
         {
           "text": "(A) 甲＜丙 乙",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 乙<丙＜甲",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 甲＜乙＜丙",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 乙＜甲＜丙 8 表（七） 取出的組織 主要功能 甲 運輸養分 乙 運輸水分 丙 細胞分裂",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -979,22 +979,22 @@
         {
           "text": "(A) 甲為質子數",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 乙為中子數",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 丙為電子數",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 丁為質量數 亲 原子或離子 CI H' 甲 乙 丙 丁 35 18 17 17 1 0 0",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1006,22 +1006,22 @@
         {
           "text": "(A) 與海溝距離必為甲＞乙＞丙",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 與海溝距離必為甲＜乙＜丙",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 與中洋脊距離必為甲＞乙＞丙",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 與",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1060,22 +1060,22 @@
         {
           "text": "(A) 酸類",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 醇類",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 酯類",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 烴類 表（九） 元素 元素 ：原子量 原子量",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1087,22 +1087,22 @@
         {
           "text": "(A) CO（NHz）2",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) CNH4）：SO4",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) Ca（NOs）2",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) NHANO： 元素 ：原子量 H 1 C 12 N 14 S Ca 原子量 16 32 40",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1168,22 +1168,22 @@
         {
           "text": "(A) 夫及他的父親",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 妻及她的父親 枭",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 夫及他的母親",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 妻及她的母親",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1195,22 +1195,22 @@
         {
           "text": "(A) 由該季節垂直入射赤道地區的陽光提供",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 自當地高於正常時溫度的海水直接提供",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 自東太平洋赤道附近深處湧升的海水提供",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 由高空下沉並往西吹的太平洋赤道東風提供",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1249,22 +1249,22 @@
         {
           "text": "(A) 蘚苔植物",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 蕨類植物",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 裸子植物",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 被子植物",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1276,22 +1276,22 @@
         {
           "text": "(A) 不會產生胚珠",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 不會產生生殖細胞",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 主要的繁殖方式不會增加遺傳的變異",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 主要的繁殖方式須經減數分裂的過程 11 請翻頁繼續作答",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1303,22 +1303,22 @@
         {
           "text": "(A) 靜電感應",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 電磁感應",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 電流的磁效應",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 電流的熱效應",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1357,22 +1357,22 @@
         {
           "text": "(A) 甲、乙皆為下沉氣流的天氣系統",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 甲、乙皆為上升氣流的天氣系統",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 甲為下沉氣流、乙為上升氣流的天氣系統",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 甲為上升氣流、乙為下沉氣流的天氣系統 12",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
@@ -1393,7 +1393,7 @@
         },
         {
           "text": "(C) 風向大致為南風，受太平洋上的暖氣團籠罩",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1438,22 +1438,22 @@
         {
           "text": "(A) 0.36M",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(B) 1.80 M",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 2.78M 本",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(D) 9.00M 13 試題結束",
           "isCorrect": false,
-          "rationale": ""
+          "rationale": "⚠️ 答案待驗證"
         }
       ],
       "_quality": "✅"
