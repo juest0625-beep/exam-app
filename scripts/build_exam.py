@@ -172,13 +172,21 @@ def build_quiz(questions_data, page_structure, exam_dir_name, top_margin=20):
 
         b64 = crop_question(pages_dir / pg_name, this_y, next_y, top_margin)
 
+        # ── Quality check: does this question have ABCD options? ──
+        region_text = ' '.join(t for y, t in ocr_page_positions(pages_dir / pg_name)
+                              if max(0,this_y-top_margin) <= y <= min(Image.open(pages_dir/pg_name).size[1], next_y-5))
+        has_options = bool(re.search(r'[（(][A-D][）)]', region_text))
+        quality_flag = "" if has_options else " ⚠️ 缺選項"
+
         quiz_questions.append({
-            "question": f"{qnum}. {d['q']}",
+            "question": f"{qnum}. {d['q']}" if qnum in questions_data else f"{qnum}. {region_text[:200]}",
             "image": b64,
             "answerOptions": [{"text": t, "isCorrect": c, "rationale": r}
-                            for t, c, r in d["opts"]],
+                            for t, c, r in d["opts"]] if qnum in questions_data else
+                            [{"text": f"⚠️ 需校正", "isCorrect": False, "rationale": ""} for _ in range(4)],
+            "_quality_ok": has_options,
         })
-        print(f"Q{qnum}: Y={max(0,this_y-top_margin)}→{min(Image.open(pages_dir/pg_name).size[1], next_y-5)}, {len(b64)//1024}KB")
+        print(f"Q{qnum}: Y={max(0,this_y-top_margin)}→{min(Image.open(pages_dir/pg_name).size[1], next_y-5)}, {len(b64)//1024}KB{quality_flag}")
 
     return {"questions": quiz_questions}
 
