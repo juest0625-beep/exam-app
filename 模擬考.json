@@ -1,0 +1,255 @@
+{
+  "questions": [
+    {
+      "question": "下列文句「」中的字，何者讀音正確？",
+      "answerOptions": [
+        {
+          "text": "他「佝」僂著背，緩步前行。（ㄐㄩˊ）",
+          "isCorrect": false,
+          "rationale": "「佝」應讀作ㄎㄡˋ，形容彎腰駝背的樣子。"
+        },
+        {
+          "text": "這篇文章「詰」屈聱牙，難以理解。（ㄐㄧˊ）",
+          "isCorrect": true,
+          "rationale": "「詰屈聱牙」形容文句艱澀難讀，「詰」正確讀音為ㄐㄧˊ。"
+        },
+        {
+          "text": "「踅」了一趟市場，買了些水果。（ㄔㄜˋ）",
+          "isCorrect": false,
+          "rationale": "「踅」應讀作ㄒㄩㄝˊ，意為來回走動。"
+        },
+        {
+          "text": "他「怏」怏不樂地離開教室。（ㄧㄤ）",
+          "isCorrect": false,
+          "rationale": "「怏」應讀作ㄧㄤˋ，形容不滿意的樣子。"
+        }
+      ]
+    },
+    {
+      "question": "下列成語運用何者正確？",
+      "answerOptions": [
+        {
+          "text": "他做事總是「按部就班」，效率極高。",
+          "isCorrect": false,
+          "rationale": "「按部就班」強調依步驟行事，與效率無直接關聯。"
+        },
+        {
+          "text": "這幅畫「栩栩如生」，彷彿真的一般。",
+          "isCorrect": true,
+          "rationale": "「栩栩如生」形容藝術作品逼真，使用正確。"
+        },
+        {
+          "text": "兩人意見「南轅北轍」，終於達成共識。",
+          "isCorrect": false,
+          "rationale": "「南轅北轍」比喻方向完全相反，與達成共識矛盾。"
+        },
+        {
+          "text": "他「罄竹難書」的善行，令人敬佩。",
+          "isCorrect": false,
+          "rationale": "「罄竹難書」多用於罪行，不適用於善行。"
+        }
+      ]
+    },
+    {
+      "question": "Choose the correct sentence:",
+      "answerOptions": [
+        {
+          "text": "She go to school by bus every day.",
+          "isCorrect": false,
+          "rationale": "Subject-verb agreement error: 'go' should be 'goes' for third-person singular."
+        },
+        {
+          "text": "They plays basketball on weekends.",
+          "isCorrect": false,
+          "rationale": "Subject-verb agreement error: 'plays' should be 'play' for plural subject."
+        },
+        {
+          "text": "He doesn't like to eat vegetables.",
+          "isCorrect": true,
+          "rationale": "Correct negative form with auxiliary 'does' for third-person singular."
+        },
+        {
+          "text": "We doesn't have any homework today.",
+          "isCorrect": false,
+          "rationale": "Incorrect auxiliary verb: 'doesn't' should be 'don't' for plural subject."
+        }
+      ]
+    },
+    {
+      "question": "Which word is spelled correctly?",
+      "answerOptions": [
+        {
+          "text": "Accomodate",
+          "isCorrect": false,
+          "rationale": "Misspelled. Correct spelling: 'Accommodate' (double 'm')."
+        },
+        {
+          "text": "Definitely",
+          "isCorrect": true,
+          "rationale": "This is the correct spelling of the word meaning 'without doubt'."
+        },
+        {
+          "text": "Seperate",
+          "isCorrect": false,
+          "rationale": "Misspelled. Correct spelling: 'Separate'."
+        },
+        {
+          "text": "Occured",
+          "isCorrect": false,
+          "rationale": "Misspelled. Correct spelling: 'Occurred' (double 'r')."
+        }
+      ]
+    },
+    {
+      "question": "若x + 3 = 7，則2x - 5的值為何？",
+      "answerOptions": [
+        {
+          "text": "3",
+          "isCorrect": true,
+          "rationale": "先解x + 3 = 7得x=4，代入2x - 5得2×4 - 5=3。"
+        },
+        {
+          "text": "5",
+          "isCorrect": false,
+          "rationale": "此為x的值加1，非正確計算結果。"
+        },
+        {
+          "text": "9",
+          "isCorrect": false,
+          "rationale": "此為2x + 1的值，計算錯誤。"
+        },
+        {
+          "text": "11",
+          "isCorrect": false,
+          "rationale": "此為2x + 3的值，計算錯誤。"
+        }
+      ]
+    },
+    {
+      "question": "直角△ABC中，∠C=90°，AB=13，BC=5，則AC的長度為何？",
+      "answerOptions": [
+        {
+          "text": "8",
+          "isCorrect": false,
+          "rationale": "此為周長減去其他兩邊，非畢氏定理計算結果。"
+        },
+        {
+          "text": "12",
+          "isCorrect": true,
+          "rationale": "根據畢氏定理：AC²=AB²-BC²=169-25=144，故AC=12。"
+        },
+        {
+          "text": "15",
+          "isCorrect": false,
+          "rationale": "此為AB與BC之和，計算錯誤。"
+        },
+        {
+          "text": "17",
+          "isCorrect": false,
+          "rationale": "此為兩股平方和，非正確計算方式。"
+        }
+      ]
+    },
+    {
+      "question": "關於「光合作用」的敘述，下列何者正確？",
+      "answerOptions": [
+        {
+          "text": "僅在夜間進行",
+          "isCorrect": false,
+          "rationale": "光合作用需要光能，主要在白天進行。"
+        },
+        {
+          "text": "會消耗二氧化碳並釋放氧氣",
+          "isCorrect": true,
+          "rationale": "此為光合作用正確的氣體變化過程。"
+        },
+        {
+          "text": "主要發生在植物根部",
+          "isCorrect": false,
+          "rationale": "光合作用主要在含葉綠素的葉片進行。"
+        },
+        {
+          "text": "產生的葡萄糖會立即全部分解",
+          "isCorrect": false,
+          "rationale": "葡萄糖會部分儲存或轉化為其他養分。"
+        }
+      ]
+    },
+    {
+      "question": "將銅片與鋅片插入檸檬中形成電池，下列敘述何者正確？",
+      "answerOptions": [
+        {
+          "text": "電子流方向為銅片→鋅片",
+          "isCorrect": true,
+          "rationale": "鋅較活潑為負極，銅為正極，電子由鋅流向銅（外電路）。"
+        },
+        {
+          "text": "檸檬汁扮演導線角色",
+          "isCorrect": false,
+          "rationale": "檸檬汁是電解質溶液，非導線。"
+        },
+        {
+          "text": "鋅片會發生還原反應",
+          "isCorrect": false,
+          "rationale": "鋅片發生氧化反應（失去電子）。"
+        },
+        {
+          "text": "此裝置可持續產生電流數年",
+          "isCorrect": false,
+          "rationale": "水果電池電力有限，無法長期使用。"
+        }
+      ]
+    },
+    {
+      "question": "台灣哪個區域最可能見到「曬鹽」的傳統產業景觀？",
+      "answerOptions": [
+        {
+          "text": "嘉義布袋",
+          "isCorrect": true,
+          "rationale": "布袋鹽田是台灣重要曬鹽場，因地勢平坦、日照充足。"
+        },
+        {
+          "text": "台北淡水",
+          "isCorrect": false,
+          "rationale": "淡水雨量較多且都市化，不適合曬鹽。"
+        },
+        {
+          "text": "南投埔里",
+          "isCorrect": false,
+          "rationale": "埔里為內陸盆地，缺乏海水來源。"
+        },
+        {
+          "text": "花蓮太魯閣",
+          "isCorrect": false,
+          "rationale": "太魯閣為峽谷地形，無曬鹽條件。"
+        }
+      ]
+    },
+    {
+      "question": "「荷蘭人在台設立學校，教授羅馬拼音與基督教義」此措施主要目的為何？",
+      "answerOptions": [
+        {
+          "text": "振興原住民文化",
+          "isCorrect": false,
+          "rationale": "荷蘭殖民目的非文化振興，而是方便統治與傳教。"
+        },
+        {
+          "text": "培養貿易人才",
+          "isCorrect": false,
+          "rationale": "當時教育重點在傳教，非商業訓練。"
+        },
+        {
+          "text": "方便統治與傳教",
+          "isCorrect": true,
+          "rationale": "透過語言與宗教教化，強化殖民控制。"
+        },
+        {
+          "text": "準備抵抗西班牙",
+          "isCorrect": false,
+          "rationale": "教育措施與軍事防禦無直接關聯。"
+        }
+      ]
+    }
+  ],
+  "title": "國中會考模擬試題（翰林雲端學院資源）"
+}

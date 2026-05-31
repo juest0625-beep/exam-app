@@ -1,0 +1,265 @@
+{
+  "title": "General Quiz",
+  "questions": [
+    {
+      "question": "Based on the linguistic logic of Traditional Chinese characters, which of the following characters would be considered a line-symmetric figure if divided vertically down the center?",
+      "answerOptions": [
+        {
+          "text": "The character for 'Middle' (\u4e2d)",
+          "isCorrect": true,
+          "rationale": "This character possesses a central vertical axis where the left and right components are mirror images."
+        },
+        {
+          "text": "The character for 'Left' (\u5de6)",
+          "isCorrect": false,
+          "rationale": "The strokes in this character are asymmetrical, with the top and bottom components shifting to different sides."
+        },
+        {
+          "text": "The character for 'Force' (\u529b)",
+          "isCorrect": false,
+          "rationale": "The slanted stroke and hook on the right side prevent it from being symmetrical across a vertical axis."
+        },
+        {
+          "text": "The character for 'Right' (\u53f3)",
+          "isCorrect": false,
+          "rationale": "Similar to its counterpart, the stroke arrangement does not allow for a perfect mirror image."
+        }
+      ],
+      "hint": "Look for a character where the strokes on the left perfectly match the strokes on the right."
+    },
+    {
+      "question": "In the context of the provided text regarding hydrogen applications, what is the primary role of hydrogen when it is used to 'remove oxygen' from metal oxides?",
+      "answerOptions": [
+        {
+          "text": "As an oxidizing agent",
+          "isCorrect": false,
+          "rationale": "An oxidizing agent gains electrons or provides oxygen, whereas hydrogen is taking oxygen away."
+        },
+        {
+          "text": "As a reducing agent",
+          "isCorrect": true,
+          "rationale": "A reducing agent removes oxygen from another substance, effectively undergoing oxidation itself to reduce the other substance."
+        },
+        {
+          "text": "As a catalyst",
+          "isCorrect": false,
+          "rationale": "A catalyst speeds up a reaction without being consumed, but hydrogen chemically reacts to form water in this process."
+        },
+        {
+          "text": "As a solvent",
+          "isCorrect": false,
+          "rationale": "A solvent is a medium for dissolution; here, hydrogen is a gaseous reactant in a chemical change."
+        }
+      ],
+      "hint": "Consider the term used for a substance that takes oxygen away from a metal compound."
+    },
+    {
+      "question": "Simplify the following expression using the laws of exponents: $5^9 \\times 5^3 \\div 5^8$.",
+      "answerOptions": [
+        {
+          "text": "$5^4$",
+          "isCorrect": true,
+          "rationale": "Following the index laws, we add the exponents for multiplication and subtract for division: $9 + 3 - 8 = 4$."
+        },
+        {
+          "text": "$5^{20}$",
+          "isCorrect": false,
+          "rationale": "This results from incorrectly adding all the numbers in the operation rather than subtracting the divisor's exponent."
+        },
+        {
+          "text": "$5^1$",
+          "isCorrect": false,
+          "rationale": "This might occur if one incorrectly subtracts both the second and third exponents from the first."
+        },
+        {
+          "text": "$125^4$",
+          "isCorrect": false,
+          "rationale": "The base should remain constant at $5$ when applying these exponent rules."
+        }
+      ],
+      "hint": "Remember to add the powers when multiplying bases and subtract them when dividing."
+    },
+    {
+      "question": "In a triangle $\\triangle ABC$, point $D$ lies on side $BC$. If $\\angle CAD = 40^{\\circ}$, $\\angle C = 60^{\\circ}$, and $\\angle B = q^{\\circ}$, what is the value of the exterior angle $\\angle ADB$?",
+      "answerOptions": [
+        {
+          "text": "$100^{\\circ}$",
+          "isCorrect": true,
+          "rationale": "According to the exterior angle theorem, the exterior angle of a triangle is equal to the sum of the two opposite interior angles ($40^{\\circ} + 60^{\\circ}$)."
+        },
+        {
+          "text": "$80^{\\circ}$",
+          "isCorrect": false,
+          "rationale": "This is the remaining interior angle of the sub-triangle, not the exterior angle."
+        },
+        {
+          "text": "$180^{\\circ}$",
+          "isCorrect": false,
+          "rationale": "This represents the total sum of angles in a triangle, not a specific exterior angle."
+        },
+        {
+          "text": "$20^{\\circ}$",
+          "isCorrect": false,
+          "rationale": "This is the difference between the angles, which does not relate to the exterior angle theorem."
+        }
+      ],
+      "hint": "The angle at $D$ outside the triangle $\\triangle ADC$ is the sum of the angles at $A$ and $C$."
+    },
+    {
+      "question": "When salt is sprinkled on cabbage leaves to make pickles, why do the leaves become soft and exude liquid?",
+      "answerOptions": [
+        {
+          "text": "Salt enters the cells and displaces the water",
+          "isCorrect": false,
+          "rationale": "The salt itself does not primarily move; rather, it creates a concentration gradient that moves water."
+        },
+        {
+          "text": "Water moves from a lower solute concentration inside the cell to a higher concentration outside",
+          "isCorrect": true,
+          "rationale": "This is the process of osmosis, where water moves out of the cell to balance the high salinity of the external environment."
+        },
+        {
+          "text": "The salt chemically melts the cell walls",
+          "isCorrect": false,
+          "rationale": "Salt does not melt cellulose; the softening is due to the loss of turgor pressure as water leaves."
+        },
+        {
+          "text": "Cold air outside the cabbage causes the water to condense",
+          "isCorrect": false,
+          "rationale": "The reaction is driven by the chemical potential of the salt, not temperature-induced condensation."
+        }
+      ],
+      "hint": "Think about the direction of water movement when a cell is placed in a very salty environment."
+    },
+    {
+      "question": "According to the principles of redox reactions discussed in the materials, what occurs during the reaction of hydrogen with copper oxide to produce pure copper and water?",
+      "answerOptions": [
+        {
+          "text": "The hydrogen is reduced and the copper is oxidized",
+          "isCorrect": false,
+          "rationale": "This is the opposite of what occurs; hydrogen gains oxygen (oxidation) and copper loses it (reduction)."
+        },
+        {
+          "text": "Both the hydrogen and the copper are oxidized",
+          "isCorrect": false,
+          "rationale": "Oxidation and reduction must occur simultaneously; both cannot be oxidized in a standard redox reaction."
+        },
+        {
+          "text": "The hydrogen is oxidized and the metal oxide is reduced",
+          "isCorrect": true,
+          "rationale": "Hydrogen gains oxygen to form water (oxidation), while the metal oxide loses oxygen to become a pure metal (reduction)."
+        },
+        {
+          "text": "It is an acid-base neutralization reaction",
+          "isCorrect": false,
+          "rationale": "This reaction involves the transfer of oxygen/electrons, not the transfer of protons ($H^+$) associated with acid-base chemistry."
+        }
+      ],
+      "hint": "Identify which element is gaining oxygen and which is losing it."
+    },
+    {
+      "question": "A demographic chart shows that a country's population in the $0-10$ age group is predicted to decrease by $1$ million in 50 years, while the $70-80$ group will increase by $1.2$ million. What is the net change for these combined groups?",
+      "answerOptions": [
+        {
+          "text": "An increase of $0.2$ million",
+          "isCorrect": true,
+          "rationale": "The net change is calculated by summing the variations: $-1.0 + 1.2 = +0.2$ million."
+        },
+        {
+          "text": "A decrease of $2.2$ million",
+          "isCorrect": false,
+          "rationale": "This would result from incorrectly treating the increase as a decrease and adding them together."
+        },
+        {
+          "text": "An increase of $2.2$ million",
+          "isCorrect": false,
+          "rationale": "This results from adding the absolute values without considering the direction of change."
+        },
+        {
+          "text": "No change",
+          "isCorrect": false,
+          "rationale": "There is a significant difference between the predicted decrease and increase, so they do not cancel out."
+        }
+      ],
+      "hint": "Subtract the decrease from the increase to find the total change."
+    },
+    {
+      "question": "If it is noon (12:00 PM) in a city in the United States and the sun is directly overhead, while a city in France is experiencing sunset, what can be inferred about their relative positions and the Earth's rotation?",
+      "answerOptions": [
+        {
+          "text": "France is located to the west of the United States",
+          "isCorrect": false,
+          "rationale": "Since France is already at sunset while the US is at noon, France must be to the east because the Earth rotates from west to east."
+        },
+        {
+          "text": "The Earth rotates in a clockwise direction when viewed from the North Pole",
+          "isCorrect": false,
+          "rationale": "The Earth rotates counter-clockwise when viewed from above the North Pole."
+        },
+        {
+          "text": "France is to the east and has a time zone ahead of the United States",
+          "isCorrect": true,
+          "rationale": "Places to the east experience sunrise and sunset earlier than places to the west due to the direction of Earth's rotation."
+        },
+        {
+          "text": "Both cities are on the same line of longitude",
+          "isCorrect": false,
+          "rationale": "Cities on the same longitude share the same local solar time, which is not the case here."
+        }
+      ],
+      "hint": "Consider which location sees the sun 'move' across the sky first."
+    },
+    {
+      "question": "Based on the text describing 'Gravity Waves,' which of the following is a unique characteristic of these waves compared to sound waves?",
+      "answerOptions": [
+        {
+          "text": "They require a solid medium to travel",
+          "isCorrect": false,
+          "rationale": "Gravity waves do not require any material medium, whereas sound requires a medium like air or water."
+        },
+        {
+          "text": "They travel at the speed of light and do not need a medium",
+          "isCorrect": true,
+          "rationale": "The text explicitly states that gravity waves propagate at the speed of light and do not require a medium for transmission."
+        },
+        {
+          "text": "They are produced by objects moving at constant speed",
+          "isCorrect": false,
+          "rationale": "The text specifies that gravity waves are generated when massive objects undergo acceleration."
+        },
+        {
+          "text": "They travel significantly slower than electromagnetic waves",
+          "isCorrect": false,
+          "rationale": "The text states that their propagation speed is identical to that of electromagnetic waves (the speed of light)."
+        }
+      ],
+      "hint": "Look for how the wave propagates through empty space."
+    },
+    {
+      "question": "To disprove the absolute claim that 'all cnidarians (\u523a\u7d72\u80de\u52d5\u7269) live in the ocean,' which of the following scientific methods would be the most effective?",
+      "answerOptions": [
+        {
+          "text": "Cataloging every species of cnidarian found in the Pacific Ocean",
+          "isCorrect": false,
+          "rationale": "Confirming where they DO live in the ocean does not address whether they live elsewhere."
+        },
+        {
+          "text": "Finding a single species of cnidarian that lives in a freshwater lake",
+          "isCorrect": true,
+          "rationale": "In logic, a universal claim is proven false by a single counter-example (an exception to the rule)."
+        },
+        {
+          "text": "Observing that many cnidarians can survive in a saltwater aquarium",
+          "isCorrect": false,
+          "rationale": "Survival in salt water supports the original claim rather than challenging its exclusivity."
+        },
+        {
+          "text": "Analyzing the DNA of moon jellyfish to see if they evolved from land animals",
+          "isCorrect": false,
+          "rationale": "Evolutionary history does not directly prove or disprove current geographical distribution."
+        }
+      ],
+      "hint": "Think about what kind of evidence is needed to prove a 'for all' statement is wrong."
+    }
+  ]
+}
