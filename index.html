@@ -113,9 +113,6 @@ footer { text-align: center; padding: 20px; color: #aaa; font-size: 0.75rem; }
 const SUBJECTS = ['英文','數學','國文','自然','社會'];
 const EXTRA_SUBJECTS = [{'label':'自然(圖)','file':'自然-image'}];
 
-async function loadQuiz(subject, filename) {
-  state.subject = subject;
-  const fname = filename || subject;
 let state = {
   subject: '英文',
   questions: [],
