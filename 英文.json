@@ -1,0 +1,265 @@
+{
+  "title": "English Quiz",
+  "questions": [
+    {
+      "question": "It is very cold outside. _____ open the window, please.",
+      "answerOptions": [
+        {
+          "text": "Don't",
+          "isCorrect": true,
+          "rationale": "Negative imperative sentences are formed by placing 'don't' before the base form of the verb to give a command or request."
+        },
+        {
+          "text": "Not",
+          "isCorrect": false,
+          "rationale": "While 'not' indicates negation, it cannot stand alone as an imperative without the auxiliary verb 'do'."
+        },
+        {
+          "text": "No",
+          "isCorrect": false,
+          "rationale": "'No' is used to answer questions or as a determiner, but it does not function as a negative command for a verb."
+        },
+        {
+          "text": "Doesn't",
+          "isCorrect": false,
+          "rationale": "'Doesn't' is used for third-person singular subjects in statements, but imperatives always use the 'do' form regardless of the implied subject."
+        }
+      ],
+      "hint": "This sentence is a request to avoid performing an action."
+    },
+    {
+      "question": "The students usually have a PE class _____ Tuesday mornings.",
+      "answerOptions": [
+        {
+          "text": "in",
+          "isCorrect": false,
+          "rationale": "'In' is used for general parts of the day like 'in the morning', but the presence of a specific day of the week changes the required preposition."
+        },
+        {
+          "text": "at",
+          "isCorrect": false,
+          "rationale": "'At' is primarily used for specific clock times or very specific points in time, rather than days."
+        },
+        {
+          "text": "on",
+          "isCorrect": true,
+          "rationale": "The preposition 'on' is used for specific days of the week, even when followed by a part of the day like 'morning'."
+        },
+        {
+          "text": "by",
+          "isCorrect": false,
+          "rationale": "'By' indicates a deadline or 'not later than', which does not fit a recurring scheduled event."
+        }
+      ],
+      "hint": "Consider the preposition used when a specific day of the week is mentioned."
+    },
+    {
+      "question": "Listen! Someone _____ the piano in the music room.",
+      "answerOptions": [
+        {
+          "text": "plays",
+          "isCorrect": false,
+          "rationale": "The simple present is used for habits, but an exclamation like 'Listen!' implies the action is happening at this very moment."
+        },
+        {
+          "text": "is playing",
+          "isCorrect": true,
+          "rationale": "The present continuous tense ($be + V-ing$) is used to describe an action that is currently in progress."
+        },
+        {
+          "text": "play",
+          "isCorrect": false,
+          "rationale": "This lacks both the necessary subject-verb agreement for a singular 'someone' and the 'be' verb required for a continuous action."
+        },
+        {
+          "text": "to play",
+          "isCorrect": false,
+          "rationale": "An infinitive form cannot function as the main verb of a sentence without an accompanying finite verb."
+        }
+      ],
+      "hint": "The word 'Listen!' suggests an action is occurring right now."
+    },
+    {
+      "question": "My grandfather is very kind. We all like to talk to _____.",
+      "answerOptions": [
+        {
+          "text": "he",
+          "isCorrect": false,
+          "rationale": "'He' is a subject pronoun, but a pronoun following a preposition like 'to' must be in the object case."
+        },
+        {
+          "text": "his",
+          "isCorrect": false,
+          "rationale": "'His' is a possessive pronoun used to show ownership, which does not fit the role of a direct object."
+        },
+        {
+          "text": "him",
+          "isCorrect": true,
+          "rationale": "'Him' is the correct object pronoun used to refer back to a male person mentioned previously."
+        },
+        {
+          "text": "himself",
+          "isCorrect": false,
+          "rationale": "Reflexive pronouns are used when the subject and object are the same person, which is not the case here."
+        }
+      ],
+      "hint": "Identify the pronoun form that acts as the object of a preposition."
+    },
+    {
+      "question": "A: _____ is the school concert? B: It is at two thirty in the afternoon.",
+      "answerOptions": [
+        {
+          "text": "What day",
+          "isCorrect": false,
+          "rationale": "'What day' asks for a day of the week, but the answer provided is a specific clock time."
+        },
+        {
+          "text": "What time",
+          "isCorrect": true,
+          "rationale": "'What time' is used to ask for specific hours and minutes, matching the response 'two thirty'."
+        },
+        {
+          "text": "Where",
+          "isCorrect": false,
+          "rationale": "'Where' asks for a location, but the response specifies a time."
+        },
+        {
+          "text": "What",
+          "isCorrect": false,
+          "rationale": "'What' is too general and usually asks for the nature of an object or event rather than a specific time."
+        }
+      ],
+      "hint": "The response mentions 'two thirty', which indicates the type of information needed."
+    },
+    {
+      "question": "The baby is crying. Let's _____ loud music in the living room.",
+      "answerOptions": [
+        {
+          "text": "don't play",
+          "isCorrect": false,
+          "rationale": "'Let's' is already a contraction of 'let us', and adding 'don't' creates a double imperative that is grammatically incorrect."
+        },
+        {
+          "text": "not play",
+          "isCorrect": true,
+          "rationale": "To form a negative suggestion with 'let's', the word 'not' is placed immediately after 'let's' and before the base verb."
+        },
+        {
+          "text": "not playing",
+          "isCorrect": false,
+          "rationale": "The word 'let's' must be followed by the base form of the verb, not the present participle ($-ing$)."
+        },
+        {
+          "text": "no play",
+          "isCorrect": false,
+          "rationale": "'No' cannot be used to negate a verb in a 'let's' construction; 'not' is required for verbal negation."
+        }
+      ],
+      "hint": "This is a negative suggestion starting with 'Let's'."
+    },
+    {
+      "question": "This small town is _____ for its beautiful old bridge.",
+      "answerOptions": [
+        {
+          "text": "delicious",
+          "isCorrect": false,
+          "rationale": "'Delicious' describes the taste of food, while the sentence describes a town's reputation regarding a landmark."
+        },
+        {
+          "text": "famous",
+          "isCorrect": true,
+          "rationale": "The phrase 'famous for' is used to describe something that is well-known by many people for a particular reason."
+        },
+        {
+          "text": "busy",
+          "isCorrect": false,
+          "rationale": "'Busy' describes having a lot of activity, but it does not specifically link a place to its reputation like 'famous' does."
+        },
+        {
+          "text": "sharp",
+          "isCorrect": false,
+          "rationale": "'Sharp' describes edges or intelligence, which does not logically describe a town's relationship with a bridge."
+        }
+      ],
+      "hint": "Think of a word that describes being well-known."
+    },
+    {
+      "question": "The final exam starts _____ eight o'clock tomorrow morning.",
+      "answerOptions": [
+        {
+          "text": "at",
+          "isCorrect": true,
+          "rationale": "'At' is the standard preposition used before specific points in time on a clock."
+        },
+        {
+          "text": "on",
+          "isCorrect": false,
+          "rationale": "'On' is used for days and dates, but it is not used for specific hours."
+        },
+        {
+          "text": "in",
+          "isCorrect": false,
+          "rationale": "'In' is used for months, years, or general parts of the day, but not for specific clock times."
+        },
+        {
+          "text": "for",
+          "isCorrect": false,
+          "rationale": "'For' usually indicates duration (how long) rather than a specific starting time."
+        }
+      ],
+      "hint": "Select the preposition used for specific time on a clock."
+    },
+    {
+      "question": "It's raining _____ outside. You should take an umbrella with you.",
+      "answerOptions": [
+        {
+          "text": "easily",
+          "isCorrect": false,
+          "rationale": "While 'easily' is an adverb, it does not describe the volume or intensity of rainfall."
+        },
+        {
+          "text": "politely",
+          "isCorrect": false,
+          "rationale": "'Politely' describes social behavior, which cannot be applied to weather patterns."
+        },
+        {
+          "text": "heavily",
+          "isCorrect": true,
+          "rationale": "The adverb 'heavily' is specifically used to describe a large amount or high intensity of rain or snow."
+        },
+        {
+          "text": "clearly",
+          "isCorrect": false,
+          "rationale": "'Clearly' describes visibility or understanding, but it doesn't indicate the strength of the rain itself."
+        }
+      ],
+      "hint": "Choose the adverb that describes an intense or strong amount of rain."
+    },
+    {
+      "question": "That man is our new English teacher. _____ name is Mr. White.",
+      "answerOptions": [
+        {
+          "text": "His",
+          "isCorrect": true,
+          "rationale": "'His' is the possessive adjective used to refer to something belonging to a male person."
+        },
+        {
+          "text": "He",
+          "isCorrect": false,
+          "rationale": "'He' is a subject pronoun, but the sentence requires a word to show possession of the 'name'."
+        },
+        {
+          "text": "Her",
+          "isCorrect": false,
+          "rationale": "'Her' is a possessive adjective for females, but the subject 'man' and 'Mr. White' indicate a male."
+        },
+        {
+          "text": "Him",
+          "isCorrect": false,
+          "rationale": "'Him' is an object pronoun and cannot be used to show possession before a noun like 'name'."
+        }
+      ],
+      "hint": "Use a word that shows possession for a man."
+    }
+  ]
+}

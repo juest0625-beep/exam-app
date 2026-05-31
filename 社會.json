@@ -1,0 +1,265 @@
+{
+  "title": "Humanities Quiz",
+  "questions": [
+    {
+      "question": "A specific category of agricultural products, often called 'ugly produce,' consists of items that are safe to eat but do not meet market appearance standards. During peak harvest, these items are frequently discarded. Which of the following strategies most effectively addresses this waste while ensuring long-term utility?",
+      "answerOptions": [
+        {
+          "text": "Encouraging the transition to organic farming to increase market prices.",
+          "isCorrect": false,
+          "rationale": "Organic farming focuses on production methods and pricing rather than finding a use for produce that fails to meet aesthetic market standards."
+        },
+        {
+          "text": "Promoting farm-to-table initiatives to reduce the distance food travels.",
+          "isCorrect": false,
+          "rationale": "While reducing food mileage is environmentally friendly, it does not solve the problem of produce being rejected due to its appearance."
+        },
+        {
+          "text": "Utilizing food processing techniques to extend shelf life and create new products.",
+          "isCorrect": true,
+          "rationale": "Processing 'ugly' produce into juices, jams, or dried goods allows the nutritional value to be preserved regardless of the original visual flaws."
+        },
+        {
+          "text": "Adopting genetically modified crops to maximize the yield per unit of land.",
+          "isCorrect": false,
+          "rationale": "Increasing yield may actually worsen the surplus problem and does not address the issue of products falling outside market specifications."
+        }
+      ],
+      "hint": "Consider methods that transform the physical state of the produce to make its appearance irrelevant."
+    },
+    {
+      "question": "The Visegr\u00e1d Group (Poland, Hungary, Slovakia, and the Czech Republic) exports a significant portion of its goods to Germany. Consequently, an economic slowdown in Germany often leads to industrial decline in these countries. What is the most sustainable policy for these nations to mitigate such external economic risks?",
+      "answerOptions": [
+        {
+          "text": "Implementing currency appreciation policies to make exports more expensive.",
+          "isCorrect": false,
+          "rationale": "Currency appreciation generally makes exports less competitive and would likely worsen the industrial decline during a partner's recession."
+        },
+        {
+          "text": "Accelerating industrial innovation and diversifying international trade partners.",
+          "isCorrect": true,
+          "rationale": "Innovation improves competitiveness, while finding new partners reduces the over-reliance on a single nation's economic health."
+        },
+        {
+          "text": "Withdrawing from regional economic unions to source cheaper labor from other continents.",
+          "isCorrect": false,
+          "rationale": "Withdrawing from the EU would likely increase trade barriers and harm the established supply chains with neighboring markets."
+        },
+        {
+          "text": "Encouraging domestic labor-intensive industries to relocate to wealthier Western European nations.",
+          "isCorrect": false,
+          "rationale": "Relocating industries to countries with higher costs would likely increase production expenses and decrease the domestic employment rate."
+        }
+      ],
+      "hint": "Focus on strategies that reduce dependency on a single market and improve domestic competitiveness."
+    },
+    {
+      "question": "A global religious gathering in 2017 attracted over 2 million participants, with the largest groups coming from Saudi Arabia, Indonesia, Iran, and Turkey. Which religious event is most likely being described?",
+      "answerOptions": [
+        {
+          "text": "The Buddhist Vesak Day celebration.",
+          "isCorrect": false,
+          "rationale": "The source countries listed, such as Saudi Arabia and Iran, are predominantly Muslim rather than Buddhist."
+        },
+        {
+          "text": "The Hindu Kumbh Mela festival.",
+          "isCorrect": false,
+          "rationale": "This festival is specific to India and would not typically see Saudi Arabia as a primary source of participants."
+        },
+        {
+          "text": "The Islamic Hajj pilgrimage.",
+          "isCorrect": true,
+          "rationale": "The Hajj is a mandatory religious duty for Muslims that takes place in Saudi Arabia, drawing millions from Muslim-majority nations like Indonesia and Turkey."
+        },
+        {
+          "text": "The Catholic Christmas Midnight Mass.",
+          "isCorrect": false,
+          "rationale": "The participant demographics provided do not align with nations where Catholicism is the primary religion."
+        }
+      ],
+      "hint": "Look at the list of source countries and identify their primary shared religious identity."
+    },
+    {
+      "question": "In the late 19th century, a specific country established a quarantine and isolation facility. This institution was used to screen returning soldiers for pathogens and to house prisoners of war during conflicts such as the First Sino-Japanese War and the Pacific War. Which country is this institution most likely associated with?",
+      "answerOptions": [
+        {
+          "text": "The United States.",
+          "isCorrect": false,
+          "rationale": "While the US was involved in the Pacific War, the timeline of facilities used for the First Sino-Japanese War specifically points to an Asian power."
+        },
+        {
+          "text": "Germany.",
+          "isCorrect": false,
+          "rationale": "Germany was not a primary belligerent in the First Sino-Japanese War or the Mukden Incident (September 18th Incident)."
+        },
+        {
+          "text": "Japan.",
+          "isCorrect": true,
+          "rationale": "Japan was the central actor in all the mentioned conflicts, spanning from the late 19th century through World War II, and maintained such military-medical infrastructure."
+        },
+        {
+          "text": "France.",
+          "isCorrect": false,
+          "rationale": "France's historical military focus during this period does not match the specific sequence of East Asian conflicts mentioned."
+        }
+      ],
+      "hint": "The country mentioned was a major participant in the First Sino-Japanese War and the Mukden Incident."
+    },
+    {
+      "question": "During the 17th century in Taiwan, a specific land development model emerged where a governing entity provided land, livestock, and capital to recruit laborers for farming and construction. This governing entity often used force to discipline laborers. Who were the most likely 'participants' in this model?",
+      "answerOptions": [
+        {
+          "text": "The Dutch East India Company and Han Chinese immigrants.",
+          "isCorrect": true,
+          "rationale": "In the 17th century, the Dutch (VOC) controlled parts of Taiwan and incentivized Han Chinese migration to develop agriculture through a system of loans and strict control."
+        },
+        {
+          "text": "The Qing Empire and settlers from Fujian and Guangdong.",
+          "isCorrect": false,
+          "rationale": "The Qing Empire's primary administrative control over Taiwan began in the late 17th century (1683), following the Dutch and Zheng periods."
+        },
+        {
+          "text": "The Zheng Chenggong regime and the Kingdom of Middag.",
+          "isCorrect": false,
+          "rationale": "While the Zheng regime did develop land, the description of providing capital and tools to recruited labor better fits the commercial-colonial model of the Dutch."
+        },
+        {
+          "text": "Yan Sigi\u2019s group and the indigenous coastal populations.",
+          "isCorrect": false,
+          "rationale": "Yan Sigi was a pirate/trader leader, and his operations were less about structured colonial land development through recruitment than the Dutch system."
+        }
+      ],
+      "hint": "Identify the European colonial power that dominated Taiwanese trade and agriculture in the mid-1600s."
+    },
+    {
+      "question": "In the 14th century, a certain product combined Chinese and Persian raw materials to become a globally traded luxury. By the 16th century, Spanish ships were transporting this item from Manila to Mexico and Peru, while European aristocrats placed custom orders for it. What is this product?",
+      "answerOptions": [
+        {
+          "text": "Silk textiles.",
+          "isCorrect": false,
+          "rationale": "While silk was highly traded, the specific mention of combining Persian and Chinese 'raw materials' to create a distinct hardened commodity points toward ceramics."
+        },
+        {
+          "text": "Porcelain (Fine China).",
+          "isCorrect": true,
+          "rationale": "Porcelain production in China often used Persian cobalt for blue-and-white patterns and was a primary cargo for the Spanish Galleon trade."
+        },
+        {
+          "text": "Opium.",
+          "isCorrect": false,
+          "rationale": "Opium trade became a major global conflict issue much later, particularly in the 19th century, rather than being a 14th-century luxury craft."
+        },
+        {
+          "text": "Tea leaves.",
+          "isCorrect": false,
+          "rationale": "Tea was a major export, but it does not fit the description of a manufactured item combining raw materials from two specific regions for aristocratic custom orders in this timeframe."
+        }
+      ],
+      "hint": "This item is often called 'China' in English and is known for its durability and artistic patterns."
+    },
+    {
+      "question": "When traveling along a specific route in China during the summer, a traveler notices the climate shifting from 'hot and humid' to 'hot and dry.' Which geographic direction or route is the traveler most likely following?",
+      "answerOptions": [
+        {
+          "text": "Moving from the northern plains toward the southern tropical coast.",
+          "isCorrect": false,
+          "rationale": "Moving south generally increases humidity and heat, rather than resulting in a transition to a dry climate."
+        },
+        {
+          "text": "Moving from the eastern coast toward the inland western regions.",
+          "isCorrect": true,
+          "rationale": "As one moves inland away from the Pacific Ocean's influence, the maritime moisture decreases, leading to arid and semi-arid conditions while remaining hot in summer."
+        },
+        {
+          "text": "Moving from the high-altitude plateaus toward the low-lying basins.",
+          "isCorrect": false,
+          "rationale": "This would primarily involve a change in temperature due to altitude rather than a specific humid-to-dry shift based on distance from the sea."
+        },
+        {
+          "text": "Moving from the southern islands toward the northeastern mountains.",
+          "isCorrect": false,
+          "rationale": "Moving northeast would likely lead to cooler temperatures rather than 'hot and dry' conditions in the summer."
+        }
+      ],
+      "hint": "Think about the impact of the distance from the ocean on moisture levels in a large landmass."
+    },
+    {
+      "question": "The 'Koine' language, or 'Common Greek,' became an international tongue around the 4th century BCE. It spread across Egypt and West Asia following military conquests and influenced science and religion for centuries. Which empire was responsible for this cultural diffusion?",
+      "answerOptions": [
+        {
+          "text": "The Persian Empire.",
+          "isCorrect": false,
+          "rationale": "The Persian Empire was the power that was conquered by the forces spreading the Greek language."
+        },
+        {
+          "text": "The Alexander (Macedonian) Empire.",
+          "isCorrect": true,
+          "rationale": "Alexander the Great's conquests led to the Hellenistic Age, during which Greek culture and the Koine language spread throughout the Middle East and North Africa."
+        },
+        {
+          "text": "The Mongol Empire.",
+          "isCorrect": false,
+          "rationale": "The Mongol Empire existed over a millennium later and spread Mongolian and Turkic influences, not ancient Greek."
+        },
+        {
+          "text": "The Aztec Empire.",
+          "isCorrect": false,
+          "rationale": "The Aztec Empire was located in the Americas and had no contact with the Mediterranean region during the 4th century BCE."
+        }
+      ],
+      "hint": "This empire was led by a young king who defeated the Persians and reached as far as India."
+    },
+    {
+      "question": "In the history of Japanese cuisine, 'Tempura' was introduced by Portuguese missionaries and traders. It became popular partly because fried foods were easier to preserve before the invention of refrigeration. This cultural exchange most likely took place during which era?",
+      "answerOptions": [
+        {
+          "text": "The era when Japan followed the Tang Dynasty's systems during the Taika Reform.",
+          "isCorrect": false,
+          "rationale": "The Taika Reform (7th century) focused on Chinese influence, long before European contact."
+        },
+        {
+          "text": "The era when Western explorers established new sea routes to the East.",
+          "isCorrect": true,
+          "rationale": "The Age of Discovery in the 16th century brought Portuguese 'Nanban' trade to Japan, introducing Christianity and new culinary techniques."
+        },
+        {
+          "text": "The era of the Meiji Restoration when Japan modernized its military.",
+          "isCorrect": false,
+          "rationale": "While the Meiji era saw significant Westernization, the specific introduction of Portuguese food and Catholicism occurred much earlier."
+        },
+        {
+          "text": "The era when the United States forced Japan to open its ports via 'Black Ships'.",
+          "isCorrect": false,
+          "rationale": "This occurred in the mid-19th century, whereas Portuguese influence dates back to the mid-16th century."
+        }
+      ],
+      "hint": "Consider the period known as the 'Age of Discovery' when Europeans first reached East Asia by sea."
+    },
+    {
+      "question": "A historical document from China indicates that the government recorded the names, ages, and status of every household member. What was the primary purpose of creating such meticulous official records in ancient dynasties?",
+      "answerOptions": [
+        {
+          "text": "To implement a feudal system that guaranteed the hereditary power of nobles.",
+          "isCorrect": false,
+          "rationale": "Feudal systems rely on land grants and personal loyalty rather than detailed centralized household registration of commoners."
+        },
+        {
+          "text": "To select talented individuals for the civil service through the imperial examination.",
+          "isCorrect": false,
+          "rationale": "The imperial examination was a merit-based system for selection, whereas household registration was a tool for general population management."
+        },
+        {
+          "text": "To maintain a basis for collecting taxes and conscripting labor or military service.",
+          "isCorrect": true,
+          "rationale": "Accurate household records allowed the central government to efficiently calculate tax revenue and determine the available pool for forced labor or soldiers."
+        },
+        {
+          "text": "To promote Confucian filial piety and ensure all families followed moral rites.",
+          "isCorrect": false,
+          "rationale": "While Confucianism was the state ideology, the official administrative function of registration was fiscal and military, not purely moral instruction."
+        }
+      ],
+      "hint": "Governments require data on their citizens to fund their operations and build their armies."
+    }
+  ]
+}

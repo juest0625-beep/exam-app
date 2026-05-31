@@ -1,0 +1,265 @@
+{
+  "title": "Geology Quiz",
+  "questions": [
+    {
+      "question": "If an igneous rock like rhyolite has extremely fine mineral grains compared to granite, what can be inferred about its formation process?",
+      "answerOptions": [
+        {
+          "text": "The magma cooled rapidly at or near the Earth's surface.",
+          "isCorrect": true,
+          "rationale": "Rapid cooling prevents large crystals from forming, resulting in a fine-grained texture typical of volcanic rocks like rhyolite."
+        },
+        {
+          "text": "The rock was formed deep underground where pressure is high.",
+          "isCorrect": false,
+          "rationale": "Deep underground environments typically facilitate slow cooling, which leads to coarse-grained textures like that of granite."
+        },
+        {
+          "text": "The rock underwent high-temperature metamorphism after solidifying.",
+          "isCorrect": false,
+          "rationale": "Metamorphism usually causes mineral recrystallization and foliation rather than simply determining the initial grain size of igneous cooling."
+        },
+        {
+          "text": "The mineral grains were worn down by long-distance river transport.",
+          "isCorrect": false,
+          "rationale": "While river transport rounds and sizes sediment, the primary grain size of an igneous rock is determined by its cooling rate from magma."
+        }
+      ],
+      "hint": "Consider how the speed of temperature change affects the growth of mineral crystals."
+    },
+    {
+      "question": "Which of the following statements regarding the forces that shape Earth's landforms is correct?",
+      "answerOptions": [
+        {
+          "text": "Landform changes result from the continuous interaction of both internal and external forces.",
+          "isCorrect": true,
+          "rationale": "Geomorphology is a dynamic process driven by internal forces like plate tectonics and external forces like weathering and erosion."
+        },
+        {
+          "text": "External forces like erosion only affect landforms at high altitudes.",
+          "isCorrect": false,
+          "rationale": "External forces act on all exposed surfaces of the Earth, regardless of elevation, including coastal areas and plains."
+        },
+        {
+          "text": "If the rate of surface uplift exceeds the rate of erosion, the terrain will become flatter.",
+          "isCorrect": false,
+          "rationale": "If uplift is faster than erosion, the elevation of the terrain will actually increase and become more rugged."
+        },
+        {
+          "text": "Internal forces are responsible for weathering, while external forces cause volcanic eruptions.",
+          "isCorrect": false,
+          "rationale": "This incorrectly swaps the roles; volcanic eruptions are internal (endogenic) while weathering is external (exogenic)."
+        }
+      ],
+      "hint": "Think about whether the Earth's surface is shaped by a single type of force or a combination of factors."
+    },
+    {
+      "question": "A coastal city notices that its shoreline is retreating toward the land. Based on geological principles, what is a likely cause of this phenomenon?",
+      "answerOptions": [
+        {
+          "text": "The amount of sediment being carried away by waves exceeds the amount being deposited.",
+          "isCorrect": true,
+          "rationale": "A deficit in the sediment budget leads to coastal erosion, causing the coastline to move landward."
+        },
+        {
+          "text": "Upstream dam construction has increased the amount of sand reaching the estuary.",
+          "isCorrect": false,
+          "rationale": "Dams actually trap sediment, reducing the supply of sand to the coast and accelerating erosion."
+        },
+        {
+          "text": "The global sea level is dropping significantly, exposing more land.",
+          "isCorrect": false,
+          "rationale": "A drop in sea level would cause the coastline to advance toward the sea, not retreat toward the land."
+        },
+        {
+          "text": "The local landmass is experiencing rapid tectonic uplift.",
+          "isCorrect": false,
+          "rationale": "Tectonic uplift generally causes the land to rise relative to the sea, typically moving the coastline seaward."
+        }
+      ],
+      "hint": "Focus on the balance between material being added to the shore and material being removed."
+    },
+    {
+      "question": "Why is land subsidence caused by excessive groundwater pumping often considered an irreversible environmental change?",
+      "answerOptions": [
+        {
+          "text": "The empty spaces in the underground aquifers collapse and lose their ability to hold water.",
+          "isCorrect": true,
+          "rationale": "When water pressure is removed, the soil particles pack more tightly together, leading to a permanent loss of pore space and structural volume."
+        },
+        {
+          "text": "Groundwater is a non-renewable resource that can never be replenished by rain.",
+          "isCorrect": false,
+          "rationale": "While recharge is slow, groundwater is part of the water cycle; the issue is the physical collapse of the strata, not just the water volume."
+        },
+        {
+          "text": "The salt from seawater intrusion makes the ground too heavy to rise back up.",
+          "isCorrect": false,
+          "rationale": "Seawater intrusion affects water quality, but the lack of recovery is due to soil compaction, not the weight of salt."
+        },
+        {
+          "text": "Pumping water creates a vacuum that pulls the surface downward forever.",
+          "isCorrect": false,
+          "rationale": "Subsidence is caused by the loss of hydrostatic support and subsequent compaction of sediments, not a vacuum effect."
+        }
+      ],
+      "hint": "Consider what happens to the physical structure of the soil layers when the supporting water is removed."
+    },
+    {
+      "question": "Which factor would most likely lead to an increase in the salinity of a specific coastal sea area?",
+      "answerOptions": [
+        {
+          "text": "Prolonged periods of intense sunlight and high temperatures.",
+          "isCorrect": true,
+          "rationale": "High temperatures increase the rate of evaporation, which leaves salts behind and concentrates the brine."
+        },
+        {
+          "text": "Heavy rainfall during the monsoon season.",
+          "isCorrect": false,
+          "rationale": "Precipitation adds fresh water to the ocean, which dilutes the salt and lowers the salinity."
+        },
+        {
+          "text": "A large river carrying sediment and fresh water into the sea.",
+          "isCorrect": false,
+          "rationale": "Rivers introduce large volumes of fresh water, which significantly lowers the salinity of the surrounding coastal waters."
+        },
+        {
+          "text": "The melting of nearby glaciers or ice caps.",
+          "isCorrect": false,
+          "rationale": "Melting ice releases fresh water into the ocean, resulting in a decrease in salinity."
+        }
+      ],
+      "hint": "Think about the processes that remove pure water from the ocean while leaving the dissolved minerals behind."
+    },
+    {
+      "question": "While hiking from the headwaters of a river toward the ocean, how would you expect the characteristics of the riverbed stones to change?",
+      "answerOptions": [
+        {
+          "text": "The stones will become smaller and more rounded.",
+          "isCorrect": true,
+          "rationale": "Continuous collision and friction during transport wear down sharp edges and reduce the size of the sediments."
+        },
+        {
+          "text": "The stones will become larger and more angular due to accumulation.",
+          "isCorrect": false,
+          "rationale": "Angular stones are typically found near the source; transport makes them smoother, not more jagged."
+        },
+        {
+          "text": "The stones will change from metamorphic to sedimentary regardless of the source.",
+          "isCorrect": false,
+          "rationale": "While the sediment may eventually become sedimentary rock, the individual stones retain their original composition unless weathered away."
+        },
+        {
+          "text": "The stones will show no change because the river's flow is too slow.",
+          "isCorrect": false,
+          "rationale": "River transport is a major geological agent of physical weathering and sorting."
+        }
+      ],
+      "hint": "Recall the effects of long-term friction and physical weathering during the transport of debris."
+    },
+    {
+      "question": "The Taroko Gorge is famous for its massive formations of marble. Which rock served as the original 'parent rock' before it underwent metamorphism to become marble?",
+      "answerOptions": [
+        {
+          "text": "Limestone",
+          "isCorrect": true,
+          "rationale": "Marble is formed when sedimentary limestone is subjected to high heat and pressure, causing recrystallization."
+        },
+        {
+          "text": "Shale",
+          "isCorrect": false,
+          "rationale": "Metamorphosed shale typically turns into slate, phyllite, or schist, depending on the intensity of the pressure."
+        },
+        {
+          "text": "Sandstone",
+          "isCorrect": false,
+          "rationale": "Sandstone undergoes metamorphism to become quartzite, which is primarily composed of quartz."
+        },
+        {
+          "text": "Basalt",
+          "isCorrect": false,
+          "rationale": "Basalt is an igneous rock; while it can be metamorphosed, it does not turn into marble, which is carbonate-based."
+        }
+      ],
+      "hint": "Think about a common sedimentary rock that is primarily composed of calcium carbonate."
+    },
+    {
+      "question": "A massive volcanic eruption sends clouds of ash high into the atmosphere, blocking sunlight and affecting global temperatures. This scenario demonstrates an interaction between which two Earth spheres?",
+      "answerOptions": [
+        {
+          "text": "The Lithosphere and the Atmosphere",
+          "isCorrect": true,
+          "rationale": "Volcanic activity originates in the lithosphere and releases material (ash/gases) into the atmosphere, changing its composition and properties."
+        },
+        {
+          "text": "The Hydrosphere and the Biosphere only",
+          "isCorrect": false,
+          "rationale": "While these spheres may be affected later, the primary immediate interaction described is between the solid earth and the air."
+        },
+        {
+          "text": "The Atmosphere and the Exosphere",
+          "isCorrect": false,
+          "rationale": "The exosphere is the outermost layer of space; the eruption occurs within the Earth's internal systems and lower atmosphere."
+        },
+        {
+          "text": "The Biosphere and the Cryosphere only",
+          "isCorrect": false,
+          "rationale": "The prompt focuses on volcanic ash in the air, which involves the atmosphere rather than just ice (cryosphere) or living things."
+        }
+      ],
+      "hint": "Identify the sphere where the volcano is located and the sphere where the ash clouds reside."
+    },
+    {
+      "question": "To mitigate flooding in densely populated urban areas during extreme rainfall, which approach is considered most environmentally friendly and effective for drainage?",
+      "answerOptions": [
+        {
+          "text": "Replacing solid concrete pavements with permeable materials.",
+          "isCorrect": true,
+          "rationale": "Permeable materials allow rainwater to infiltrate the ground, reducing surface runoff and replenishing groundwater."
+        },
+        {
+          "text": "Diverting all rainwater into the local underground sewage system.",
+          "isCorrect": false,
+          "rationale": "During extreme rain, sewage systems can become overwhelmed, leading to backflows and localized flooding."
+        },
+        {
+          "text": "Covering all city parks with waterproof plastic to prevent mud.",
+          "isCorrect": false,
+          "rationale": "Waterproofing surfaces increases runoff and prevents natural infiltration, making flooding worse."
+        },
+        {
+          "text": "Building large walls around every building to block water.",
+          "isCorrect": false,
+          "rationale": "This does not solve the drainage issue and creates physical barriers that can trap water elsewhere."
+        }
+      ],
+      "hint": "Consider a method that mimics the natural water cycle by letting water soak into the earth."
+    },
+    {
+      "question": "According to the scientific definition of a mineral, why is coal not classified as a mineral?",
+      "answerOptions": [
+        {
+          "text": "It is formed from organic matter.",
+          "isCorrect": true,
+          "rationale": "Minerals must be inorganic; coal is formed from the remains of ancient plants and is therefore organic."
+        },
+        {
+          "text": "It is a solid substance found in nature.",
+          "isCorrect": false,
+          "rationale": "Being a natural solid is actually one of the requirements for a mineral, so this doesn't explain why coal is excluded."
+        },
+        {
+          "text": "It has a fixed chemical composition.",
+          "isCorrect": false,
+          "rationale": "Minerals must have a definite chemical formula; coal's composition varies, but its organic origin is the primary reason it is not a mineral."
+        },
+        {
+          "text": "It was created through high pressure underground.",
+          "isCorrect": false,
+          "rationale": "Many minerals are formed under high pressure, so this characteristic does not disqualify coal."
+        }
+      ],
+      "hint": "Think about the requirement that a mineral must be produced by inorganic processes."
+    }
+  ]
+}

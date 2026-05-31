@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>國中會考練習 — AI 生成考題</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang TC", "Microsoft JhengHei", sans-serif;
+  background: #f5f0eb; color: #2c2416; line-height: 1.7; min-height: 100vh;
+}
+.container { max-width: 780px; margin: 0 auto; padding: 16px; }
+
+header {
+  background: linear-gradient(135deg, #1a5276 0%, #2e86c1 50%, #154360 100%);
+  color: #fff; padding: 20px 16px; text-align: center;
+}
+header h1 { font-size: 1.3rem; }
+header p { font-size: 0.8rem; opacity: 0.85; margin-top: 4px; }
+
+.subject-tabs {
+  display: flex; gap: 6px; margin: 16px 0; flex-wrap: wrap; justify-content: center;
+}
+.subject-tab {
+  padding: 10px 16px; border-radius: 10px; border: 2px solid #ddd;
+  background: #fff; cursor: pointer; font-size: 0.95rem; transition: all 0.2s;
+}
+.subject-tab:hover { border-color: #2e86c1; }
+.subject-tab.active { background: #2e86c1; color: #fff; border-color: #2e86c1; }
+.subject-tab .count { font-size: 0.75rem; opacity: 0.7; }
+
+.quiz-card {
+  background: #fff; border-radius: 16px; padding: 28px 24px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+}
+.progress { display: flex; gap: 4px; margin-bottom: 20px; }
+.progress-dot {
+  width: 8px; height: 8px; border-radius: 50%; background: #ddd;
+  flex-shrink: 0;
+}
+.progress-dot.correct { background: #27ae60; }
+.progress-dot.incorrect { background: #c0392b; }
+.progress-dot.current { background: #2e86c1; transform: scale(1.5); }
+
+.question-num { color: #888; font-size: 0.85rem; margin-bottom: 8px; }
+.question-text { font-size: 1.15rem; line-height: 1.9; margin-bottom: 24px; font-weight: 500; }
+.question-text .blank { color: #2e86c1; font-weight: 700; }
+
+.options { display: flex; flex-direction: column; gap: 10px; }
+.option {
+  display: flex; align-items: center; gap: 12px; padding: 14px 16px;
+  background: #f8f9fa; border-radius: 12px; cursor: pointer; transition: all 0.15s;
+  border: 2px solid transparent;
+}
+.option:hover { border-color: #2e86c1; background: #eaf2f8; }
+.option.selected { background: #2e86c1; color: #fff; border-color: #2e86c1; }
+.option.correct { background: #d5f5e3; border-color: #27ae60; color: #1a7a3a; }
+.option.incorrect { background: #fdedec; border-color: #c0392b; color: #a82020; }
+.option:disabled { pointer-events: none; }
+.option .label {
+  width: 32px; height: 32px; border-radius: 50%; background: #e0e0e0;
+  display: flex; align-items: center; justify-content: center; font-weight: 700;
+  font-size: 0.85rem; flex-shrink: 0;
+}
+.option.selected .label { background: rgba(255,255,255,0.3); }
+
+.explanation {
+  margin-top: 16px; padding: 16px; background: #f0f7ff; border-radius: 12px;
+  display: none; font-size: 0.9rem; line-height: 1.6;
+}
+.explanation.show { display: block; }
+.explanation .exp-item { padding: 4px 0; }
+.exp-correct { color: #27ae60; }
+.exp-wrong { color: #c0392b; }
+
+.next-btn {
+  display: none; margin-top: 16px; width: 100%; padding: 14px;
+  background: #2e86c1; color: #fff; border: none; border-radius: 12px;
+  font-size: 1rem; cursor: pointer; font-family: inherit;
+}
+.next-btn.show { display: block; }
+
+.result-area { text-align: center; padding: 40px 20px; }
+.result-area .score { font-size: 3rem; font-weight: 700; color: #2e86c1; }
+.result-area .emoji { font-size: 4rem; margin: 16px 0; }
+.result-area p { color: #888; margin: 8px 0; }
+
+.setup-area { text-align: center; padding: 30px; }
+.setup-area h3 { margin-bottom: 12px; }
+.setup-area button {
+  margin: 6px; padding: 12px 24px; border-radius: 10px; border: 2px solid #2e86c1;
+  background: #fff; cursor: pointer; font-size: 1rem; font-family: inherit;
+}
+.setup-area button:hover { background: #2e86c1; color: #fff; }
+
+footer { text-align: center; padding: 20px; color: #aaa; font-size: 0.75rem; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📝 國中會考練習系統</h1>
+  <p>AI 生成考題 · 含詳解 · 任何裝置可用</p>
+</header>
+<div class="container">
+  <div class="subject-tabs" id="tabs"></div>
+  <div id="main"></div>
+</div>
+<footer>題目由 NotebookLM AI 生成 · juest0625-beep.github.io/exam-app</footer>
+
+<script>
+// ── State ──
+const SUBJECTS = ['英文','數學','國文','自然','社會'];
+let state = {
+  subject: '英文',
+  questions: [],
+  current: 0,
+  answered: [],
+  mode: 'setup'
+};
+
+// ── Load quiz ──
+async function loadQuiz(subject) {
+  state.subject = subject;
+  try {
+    const resp = await fetch(`${subject}.json`);
+    if (!resp.ok) throw new Error('Not found');
+    const data = await resp.json();
+    state.questions = data.questions || [];
+  } catch(e) {
+    state.questions = [];
+  }
+  state.current = 0; state.answered = []; state.mode = 'setup';
+  renderAll();
+}
+
+// ── Render ──
+function renderAll() {
+  renderTabs();
+  if (state.mode === 'setup') renderSetup();
+  else if (state.mode === 'quiz') renderQuiz();
+  else if (state.mode === 'result') renderResult();
+}
+
+function renderTabs() {
+  const tabs = document.getElementById('tabs');
+  tabs.innerHTML = SUBJECTS.map(s => {
+    const active = s === state.subject ? ' active' : '';
+    return `<div class="subject-tab${active}" onclick="loadQuiz('${s}')">${s}<div class="count">${state.questions.length}題</div></div>`;
+  }).join('');
+}
+
+function renderSetup() {
+  const el = document.getElementById('main');
+  if (state.questions.length === 0) {
+    el.innerHTML = `<div class="setup-area"><h3>📚 ${state.subject}科考題</h3><p>尚未生成，請先使用 NotebookLM 生成題目</p></div>`;
+    return;
+  }
+  el.innerHTML = `<div class="setup-area">
+    <h3>📚 ${state.subject}科 · ${state.questions.length} 題</h3>
+    <p>AI 生成模擬會考題目，每題含詳解</p>
+    <button onclick="startQuiz(10)">📋 10 題</button>
+    <button onclick="startQuiz(${Math.min(20, state.questions.length)})">📋 20 題</button>
+    <button onclick="startQuiz(${state.questions.length})">📋 全部</button>
+  </div>`;
+}
+
+function startQuiz(n) {
+  const pool = [...state.questions].sort(() => Math.random() - 0.5);
+  state.questions = pool.slice(0, Math.min(n, pool.length));
+  state.current = 0; state.answered = []; state.mode = 'quiz';
+  renderAll();
+}
+
+function renderQuiz() {
+  const el = document.getElementById('main');
+  const q = state.questions[state.current];
+  if (!q) { state.mode = 'result'; renderAll(); return; }
+
+  const answered = state.answered[state.current];
+  const dots = state.questions.map((_, i) => {
+    let cls = '';
+    if (i === state.current) cls = 'current';
+    else if (state.answered[i] !== undefined) cls = state.answered[i] ? 'correct' : 'incorrect';
+    return `<div class="progress-dot ${cls}" title="${i+1}"></div>`;
+  }).join('');
+
+  const options = (q.answerOptions || q.options || []).map((o, i) => {
+    const label = String.fromCharCode(65 + i);
+    let cls = 'option';
+    if (answered !== undefined) {
+      if (o.isCorrect || o.correct) cls += ' correct';
+      else if (state.selectedOption === i) cls += ' incorrect';
+    }
+    return `<div class="${cls}" onclick="selectAnswer(${i})" id="opt${i}">
+      <div class="label">${label}</div>
+      <div>${o.text}</div>
+    </div>`;
+  }).join('');
+
+  let explanationHtml = '';
+  if (answered !== undefined) {
+    explanationHtml = `<div class="explanation show">${(q.answerOptions || q.options || []).map(o =>
+      `<div class="exp-item ${o.isCorrect || o.correct ? 'exp-correct' : 'exp-wrong'}">
+        ${o.isCorrect || o.correct ? '✅' : '❌'} ${o.text} — ${o.rationale || ''}
+      </div>`
+    ).join('')}</div>`;
+  }
+
+  el.innerHTML = `<div class="quiz-card">
+    <div class="progress">${dots}</div>
+    <div class="question-num">第 ${state.current+1} / ${state.questions.length} 題</div>
+    <div class="question-text">${q.question.replace(/_____/g, '<span class="blank">______</span>')}</div>
+    <div class="options">${options}</div>
+    ${explanationHtml}
+    <button class="next-btn ${answered !== undefined ? 'show' : ''}" onclick="nextQuestion()">
+      ${state.current < state.questions.length - 1 ? '下一題 →' : '看結果 📊'}
+    </button>
+  </div>`;
+}
+
+function selectAnswer(i) {
+  if (state.answered[state.current] !== undefined) return;
+  const q = state.questions[state.current];
+  const opts = q.answerOptions || q.options || [];
+  const isCorrect = opts[i].isCorrect || opts[i].correct || false;
+  state.answered[state.current] = isCorrect;
+  state.selectedOption = i;
+  renderAll();
+}
+
+function nextQuestion() {
+  state.selectedOption = undefined;
+  state.current++;
+  if (state.current >= state.questions.length) {
+    state.mode = 'result';
+  }
+  renderAll();
+}
+
+function renderResult() {
+  const el = document.getElementById('main');
+  const correct = state.answered.filter(a => a).length;
+  const total = state.answered.length;
+  const pct = total > 0 ? Math.round(correct / total * 100) : 0;
+  const emoji = pct >= 90 ? '🎉' : pct >= 70 ? '👍' : pct >= 50 ? '📚' : '💪';
+
+  el.innerHTML = `<div class="quiz-card result-area">
+    <div class="emoji">${emoji}</div>
+    <div class="score">${correct} / ${total}</div>
+    <p>正確率 ${pct}%</p>
+    <div style="margin-top:20px;display:flex;gap:12px;justify-content:center">
+      <button class="subject-tab" onclick="state.mode='setup';renderAll()">🔄 重新選擇</button>
+      <button class="subject-tab" onclick="startQuiz(${total})">🔁 再測一次</button>
+    </div>
+  </div>`;
+}
+
+// ── Init ──
+loadQuiz('英文');
+</script>
+</body>
+</html>

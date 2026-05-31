@@ -1,0 +1,265 @@
+{
+  "title": "Literature Quiz",
+  "questions": [
+    {
+      "question": "In the poem \"Summer Night,\" how does the author create a sense of 'lively vitality' despite the setting being a quiet night?",
+      "answerOptions": [
+        {
+          "text": "By describing the chaotic and noisy behavior of local villagers.",
+          "isCorrect": false,
+          "rationale": "The poem focuses on the tranquility of the village and the family setting rather than chaotic human crowds."
+        },
+        {
+          "text": "By using personification to suggest that elements like the wind and the river are still 'awake'.",
+          "isCorrect": true,
+          "rationale": "The author uses 'active' descriptions for nature, such as the river and wind being 'awake,' to contrast with the sleeping world and show life persists at night."
+        },
+        {
+          "text": "By focusing on the intense heat and brightness of the summer sun.",
+          "isCorrect": false,
+          "rationale": "The sun is described as having 'gone home' to signal the start of the night, shifting the focus away from daylight."
+        },
+        {
+          "text": "By depicting a sudden snowstorm that changes the landscape to white.",
+          "isCorrect": false,
+          "rationale": "This is a literal misinterpretation of the 'silver' imagery used to describe the moon and stars."
+        }
+      ],
+      "hint": "Consider how the author treats non-human elements like the 'night wind' or the 'small river'."
+    },
+    {
+      "question": "Regarding the essay \"Mother's Teaching\" by Hu Shi, which description best captures the mother's approach to discipline?",
+      "answerOptions": [
+        {
+          "text": "She was overly indulgent and rarely corrected the child's mistakes.",
+          "isCorrect": false,
+          "rationale": "The text describes her as 'strict' and 'kind,' indicating she did not let mistakes slide."
+        },
+        {
+          "text": "She preferred to scold the child in front of guests to ensure he felt ashamed.",
+          "isCorrect": false,
+          "rationale": "The text explicitly states she did not punish him in front of others to protect his self-esteem."
+        },
+        {
+          "text": "She balanced strictness with a desire to preserve the child's dignity.",
+          "isCorrect": true,
+          "rationale": "The mother provided firm guidance but chose private moments for discipline to respect the child's self-respect."
+        },
+        {
+          "text": "She felt helpless and eventually gave up on trying to teach the child.",
+          "isCorrect": false,
+          "rationale": "The essay is a tribute to her successful and influential education style."
+        }
+      ],
+      "hint": "Focus on the setting and timing she chose for correcting her son."
+    },
+    {
+      "question": "Which of the following is a primary characteristic of 'New Poetry' (Modern Poetry) mentioned in the study materials?",
+      "answerOptions": [
+        {
+          "text": "It must follow strict traditional rhythmic and tonal patterns.",
+          "isCorrect": false,
+          "rationale": "Modern poetry is characterized by its break from traditional 'grid' and tonal constraints."
+        },
+        {
+          "text": "It emerged as a result of the Vernacular (White Speech) Language Movement.",
+          "isCorrect": true,
+          "rationale": "The transition to New Poetry was a key part of the movement to use everyday language in literature."
+        },
+        {
+          "text": "It is primarily used to record the historical genealogies of emperors.",
+          "isCorrect": false,
+          "rationale": "New Poetry is a creative art form focusing on emotions and experiences rather than official historical records."
+        },
+        {
+          "text": "It is limited to describing the inner worlds of small children only.",
+          "isCorrect": false,
+          "rationale": "While it can describe children, it covers a broad range of adult themes, social issues, and philosophies."
+        }
+      ],
+      "hint": "Think about the linguistic shift from 'Classical' to 'Modern' Chinese."
+    },
+    {
+      "question": "Based on the logic of punctuation and sentence structure, which phrasing implies that a driver is effectively forced or permitted to park?",
+      "answerOptions": [
+        {
+          "text": "Driver, waiting is not possible, park here temporarily.",
+          "isCorrect": true,
+          "rationale": "By stating that waiting is impossible, the punctuation creates a logical necessity for the driver to stop/park."
+        },
+        {
+          "text": "Drivers and others, are not permitted here, to park.",
+          "isCorrect": false,
+          "rationale": "The placement of commas around 'not permitted' clearly forbids the action of parking."
+        },
+        {
+          "text": "Driver, wait; not permitted at this location, to park.",
+          "isCorrect": false,
+          "rationale": "The semicolon and comma reinforce the prohibition against parking at that specific spot."
+        },
+        {
+          "text": "Drivers: stop; not allowed; park here.",
+          "isCorrect": false,
+          "rationale": "The fragmented nature of the punctuation creates a contradictory and largely prohibitive command."
+        }
+      ],
+      "hint": "Look for the sentence where 'cannot wait' acts as the reason for stopping."
+    },
+    {
+      "question": "Which of these statements is an example of 'Irony' or 'Sarcasm' (saying the opposite of the literal truth for effect)?",
+      "answerOptions": [
+        {
+          "text": "The wind whispered secrets through the willow trees.",
+          "isCorrect": false,
+          "rationale": "This is personification, giving human qualities to the wind, rather than irony."
+        },
+        {
+          "text": "You are such a genius driver that you managed to hit the only pole in the field.",
+          "isCorrect": true,
+          "rationale": "The speaker calls the person a 'genius' while describing a foolish mistake, which is the definition of irony."
+        },
+        {
+          "text": "The library is a treasure chest filled with gold and jewels.",
+          "isCorrect": false,
+          "rationale": "This is a metaphor comparing books to treasure, intended to be taken as a positive comparison."
+        },
+        {
+          "text": "The sunset was as red as a blooming hibiscus flower.",
+          "isCorrect": false,
+          "rationale": "This is a simile using 'as' to compare the color of the sunset to a flower."
+        }
+      ],
+      "hint": "Look for a compliment being used to describe a failure."
+    },
+    {
+      "question": "In the poem about the sugar factory, what is the most likely symbolic meaning of the 'salt' found on the farmers' bodies?",
+      "answerOptions": [
+        {
+          "text": "The seasoning used for the sugar-making process.",
+          "isCorrect": false,
+          "rationale": "The poem focuses on the human condition of the workers, not the chemical recipe for sugar."
+        },
+        {
+          "text": "The ocean spray from a nearby coastal factory.",
+          "isCorrect": false,
+          "rationale": "The context implies labor in the fields ('cane farmers'), not necessarily a seaside location."
+        },
+        {
+          "text": "The sweat produced by their intense physical labor.",
+          "isCorrect": true,
+          "rationale": "Salt is a common metaphor for the sweat of workers, highlighting their hardship and toil."
+        },
+        {
+          "text": "The financial debts that the farmers owe to the factory.",
+          "isCorrect": false,
+          "rationale": "While farmers may have debt, 'salt' on the body is a physical descriptor typically linked to physical exertion."
+        }
+      ],
+      "hint": "Think about what physical substance remains on skin after working hard in a hot field."
+    },
+    {
+      "question": "According to the passage comparing flowers and leaves, what philosophy of life does the 'leaf' represent?",
+      "answerOptions": [
+        {
+          "text": "The desire to be the center of attention and outshine others.",
+          "isCorrect": false,
+          "rationale": "The leaf is described as 'ordinary' and 'quiet,' which is the opposite of seeking the spotlight."
+        },
+        {
+          "text": "Quietly contributing to the whole while maintaining inner peace.",
+          "isCorrect": true,
+          "rationale": "The author praises the leaf for nourishing the tree and growing quietly without the vanity of the flower."
+        },
+        {
+          "text": "Being fragile and easily destroyed by the wind.",
+          "isCorrect": false,
+          "rationale": "The text suggests leaves are actually 'more durable' and long-lasting than flowers."
+        },
+        {
+          "text": "Competing with others to see who can become red first in autumn.",
+          "isCorrect": false,
+          "rationale": "The 'red' in autumn is described as a 'faint' and natural transition, not a competition."
+        }
+      ],
+      "hint": "The leaf's value comes from its role in the tree's growth, not its appearance."
+    },
+    {
+      "question": "If a poet uses the imagery of 'frogs croaking' and 'a fire-like sun,' which season are they most likely describing?",
+      "answerOptions": [
+        {
+          "text": "Spring, when flowers first begin to bloom.",
+          "isCorrect": false,
+          "rationale": "Spring is usually associated with gentle winds and blossoms rather than 'fire-like' heat."
+        },
+        {
+          "text": "Winter, when the world is covered in silver snow.",
+          "isCorrect": false,
+          "rationale": "Frogs are typically dormant in winter, and the sun is rarely described as 'fire-like' in cold seasons."
+        },
+        {
+          "text": "Summer, the peak of heat and animal activity.",
+          "isCorrect": true,
+          "rationale": "The 'fire-like' sun (\u70c8\u65e5) and 'frogs croaking' are classic literary symbols for the height of summer."
+        },
+        {
+          "text": "Autumn, when the leaves turn red and fall.",
+          "isCorrect": false,
+          "rationale": "Autumn is characterized by cool breezes and falling leaves, not the intense heat mentioned."
+        }
+      ],
+      "hint": "Focus on the intensity of the heat and the specific animals that are loudest during hot nights."
+    },
+    {
+      "question": "In the context of business slogans using puns (homophones), why might a wedding shop using the phrase 'Ice Cold Logic' (\u51b0\u51b0\u6709\u7406) be considered 'inappropriate'?",
+      "answerOptions": [
+        {
+          "text": "Because 'logic' is too difficult for customers to understand.",
+          "isCorrect": false,
+          "rationale": "The issue isn't the difficulty of the word, but the emotional tone it sets for the occasion."
+        },
+        {
+          "text": "Because a wedding is associated with warmth and romance, not 'ice cold' feelings.",
+          "isCorrect": true,
+          "rationale": "A successful pun-based slogan should align with the desired atmosphere of the product or service; 'ice cold' contradicts the warmth of a wedding."
+        },
+        {
+          "text": "Because wedding shops are not allowed to use puns in their advertising.",
+          "isCorrect": false,
+          "rationale": "There are no legal rules against puns; it is a matter of marketing effectiveness and thematic fit."
+        },
+        {
+          "text": "Because the slogan is a famous quote from a history book.",
+          "isCorrect": false,
+          "rationale": "The source material presents these as creative puns for shops, not as historical quotes."
+        }
+      ],
+      "hint": "Consider the 'vibe' or emotional connection people expect when planning a marriage."
+    },
+    {
+      "question": "What does the line 'Waxing moon / Waning moon' (\u4e0a\u5f26\u6708\uff0f\u4e0b\u5f26\u6708) primarily evoke in the reader, according to the source material?",
+      "answerOptions": [
+        {
+          "text": "A sense of deep confusion and indecisiveness.",
+          "isCorrect": false,
+          "rationale": "While the moon changes, the phases represent a cycle, not necessarily a state of mind like confusion."
+        },
+        {
+          "text": "The physical shape of a person's smile.",
+          "isCorrect": false,
+          "rationale": "While the moon is sometimes compared to a smile, in this specific poetic context, the focus is on the cycle of change."
+        },
+        {
+          "text": "The rapid and inevitable passage of time.",
+          "isCorrect": true,
+          "rationale": "References to lunar phases signify the progression of days and months, symbolizing how time flies."
+        },
+        {
+          "text": "A warning about an approaching natural disaster.",
+          "isCorrect": false,
+          "rationale": "Standard lunar phases are natural cycles and do not typically symbolize impending disasters in this literary style."
+        }
+      ],
+      "hint": "Think about what changes when the moon goes through its full cycle."
+    }
+  ]
+}
