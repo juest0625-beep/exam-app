@@ -1,265 +1,254 @@
 {
-  "title": "Geology Quiz",
   "questions": [
     {
-      "question": "If an igneous rock like rhyolite has extremely fine mineral grains compared to granite, what can be inferred about its formation process?",
+      "question": "下列哪一種岩石屬於火成岩？",
       "answerOptions": [
         {
-          "text": "The magma cooled rapidly at or near the Earth's surface.",
+          "text": "花岡岩",
           "isCorrect": true,
-          "rationale": "Rapid cooling prevents large crystals from forming, resulting in a fine-grained texture typical of volcanic rocks like rhyolite."
+          "rationale": "花岡岩是由岩漿在地下緩慢冷卻形成的火成岩，礦物顆粒較粗。"
         },
         {
-          "text": "The rock was formed deep underground where pressure is high.",
+          "text": "大理岩",
           "isCorrect": false,
-          "rationale": "Deep underground environments typically facilitate slow cooling, which leads to coarse-grained textures like that of granite."
+          "rationale": "大理岩是石灰岩經過變質作用形成的變質岩。"
         },
         {
-          "text": "The rock underwent high-temperature metamorphism after solidifying.",
+          "text": "頁岩",
           "isCorrect": false,
-          "rationale": "Metamorphism usually causes mineral recrystallization and foliation rather than simply determining the initial grain size of igneous cooling."
+          "rationale": "頁岩是由沉積物壓密形成的沉積岩。"
         },
         {
-          "text": "The mineral grains were worn down by long-distance river transport.",
+          "text": "片麻岩",
           "isCorrect": false,
-          "rationale": "While river transport rounds and sizes sediment, the primary grain size of an igneous rock is determined by its cooling rate from magma."
+          "rationale": "片麻岩是花岡岩經過變質作用形成的變質岩。"
         }
-      ],
-      "hint": "Consider how the speed of temperature change affects the growth of mineral crystals."
+      ]
     },
     {
-      "question": "Which of the following statements regarding the forces that shape Earth's landforms is correct?",
+      "question": "關於臺灣的地質構造，下列敘述何者正確？",
       "answerOptions": [
         {
-          "text": "Landform changes result from the continuous interaction of both internal and external forces.",
+          "text": "臺灣位於歐亞板塊與太平洋板塊的交界處",
+          "isCorrect": false,
+          "rationale": "臺灣實際上位於歐亞板塊與菲律賓海板塊的交界處。"
+        },
+        {
+          "text": "中央山脈主要由沉積岩組成",
+          "isCorrect": false,
+          "rationale": "中央山脈主要由變質岩組成，如片岩、片麻岩等。"
+        },
+        {
+          "text": "臺灣西部平原主要由沖積層構成",
           "isCorrect": true,
-          "rationale": "Geomorphology is a dynamic process driven by internal forces like plate tectonics and external forces like weathering and erosion."
+          "rationale": "臺灣西部平原是河流沖積作用形成的，主要由沖積層構成。"
         },
         {
-          "text": "External forces like erosion only affect landforms at high altitudes.",
+          "text": "澎湖群島主要由安山岩構成",
           "isCorrect": false,
-          "rationale": "External forces act on all exposed surfaces of the Earth, regardless of elevation, including coastal areas and plains."
-        },
-        {
-          "text": "If the rate of surface uplift exceeds the rate of erosion, the terrain will become flatter.",
-          "isCorrect": false,
-          "rationale": "If uplift is faster than erosion, the elevation of the terrain will actually increase and become more rugged."
-        },
-        {
-          "text": "Internal forces are responsible for weathering, while external forces cause volcanic eruptions.",
-          "isCorrect": false,
-          "rationale": "This incorrectly swaps the roles; volcanic eruptions are internal (endogenic) while weathering is external (exogenic)."
+          "rationale": "澎湖群島主要由玄武岩構成，而非安山岩。"
         }
-      ],
-      "hint": "Think about whether the Earth's surface is shaped by a single type of force or a combination of factors."
+      ]
     },
     {
-      "question": "A coastal city notices that its shoreline is retreating toward the land. Based on geological principles, what is a likely cause of this phenomenon?",
+      "question": "下列哪一種地質作用最容易造成地層的褶皺？",
       "answerOptions": [
         {
-          "text": "The amount of sediment being carried away by waves exceeds the amount being deposited.",
+          "text": "風化作用",
+          "isCorrect": false,
+          "rationale": "風化作用會使岩石破碎，但不會造成褶皺。"
+        },
+        {
+          "text": "侵蝕作用",
+          "isCorrect": false,
+          "rationale": "侵蝕作用會搬運岩石碎屑，但不會造成褶皺。"
+        },
+        {
+          "text": "板塊擠壓",
           "isCorrect": true,
-          "rationale": "A deficit in the sediment budget leads to coastal erosion, causing the coastline to move landward."
+          "rationale": "板塊擠壓會使地層受到側向壓力，容易形成褶皺。"
         },
         {
-          "text": "Upstream dam construction has increased the amount of sand reaching the estuary.",
+          "text": "火山活動",
           "isCorrect": false,
-          "rationale": "Dams actually trap sediment, reducing the supply of sand to the coast and accelerating erosion."
-        },
-        {
-          "text": "The global sea level is dropping significantly, exposing more land.",
-          "isCorrect": false,
-          "rationale": "A drop in sea level would cause the coastline to advance toward the sea, not retreat toward the land."
-        },
-        {
-          "text": "The local landmass is experiencing rapid tectonic uplift.",
-          "isCorrect": false,
-          "rationale": "Tectonic uplift generally causes the land to rise relative to the sea, typically moving the coastline seaward."
+          "rationale": "火山活動主要形成火山地形，與褶皺無直接關係。"
         }
-      ],
-      "hint": "Focus on the balance between material being added to the shore and material being removed."
+      ]
     },
     {
-      "question": "Why is land subsidence caused by excessive groundwater pumping often considered an irreversible environmental change?",
+      "question": "關於河流的地質作用，下列敘述何者錯誤？",
       "answerOptions": [
         {
-          "text": "The empty spaces in the underground aquifers collapse and lose their ability to hold water.",
+          "text": "上游以侵蝕作用為主",
+          "isCorrect": false,
+          "rationale": "河流上游坡度陡，流速快，確實以侵蝕作用為主。"
+        },
+        {
+          "text": "中游開始出現搬運作用",
+          "isCorrect": false,
+          "rationale": "河流中游確實開始搬運侵蝕下來的沉積物。"
+        },
+        {
+          "text": "下游以沉積作用為主",
+          "isCorrect": false,
+          "rationale": "河流下游流速慢，確實以沉積作用為主。"
+        },
+        {
+          "text": "河流的侵蝕作用只發生在河床",
           "isCorrect": true,
-          "rationale": "When water pressure is removed, the soil particles pack more tightly together, leading to a permanent loss of pore space and structural volume."
-        },
-        {
-          "text": "Groundwater is a non-renewable resource that can never be replenished by rain.",
-          "isCorrect": false,
-          "rationale": "While recharge is slow, groundwater is part of the water cycle; the issue is the physical collapse of the strata, not just the water volume."
-        },
-        {
-          "text": "The salt from seawater intrusion makes the ground too heavy to rise back up.",
-          "isCorrect": false,
-          "rationale": "Seawater intrusion affects water quality, but the lack of recovery is due to soil compaction, not the weight of salt."
-        },
-        {
-          "text": "Pumping water creates a vacuum that pulls the surface downward forever.",
-          "isCorrect": false,
-          "rationale": "Subsidence is caused by the loss of hydrostatic support and subsequent compaction of sediments, not a vacuum effect."
+          "rationale": "河流的侵蝕作用不只發生在河床，也會發生在河岸。"
         }
-      ],
-      "hint": "Consider what happens to the physical structure of the soil layers when the supporting water is removed."
+      ]
     },
     {
-      "question": "Which factor would most likely lead to an increase in the salinity of a specific coastal sea area?",
+      "question": "下列哪一種礦物是花岡岩的主要組成礦物之一？",
       "answerOptions": [
         {
-          "text": "Prolonged periods of intense sunlight and high temperatures.",
+          "text": "方解石",
+          "isCorrect": false,
+          "rationale": "方解石是石灰岩的主要組成礦物，不是花岡岩的。"
+        },
+        {
+          "text": "石英",
           "isCorrect": true,
-          "rationale": "High temperatures increase the rate of evaporation, which leaves salts behind and concentrates the brine."
+          "rationale": "石英是花岡岩的主要組成礦物之一，其他還有長石和雲母。"
         },
         {
-          "text": "Heavy rainfall during the monsoon season.",
+          "text": "石膏",
           "isCorrect": false,
-          "rationale": "Precipitation adds fresh water to the ocean, which dilutes the salt and lowers the salinity."
+          "rationale": "石膏是沉積岩中常見的礦物，不是花岡岩的組成礦物。"
         },
         {
-          "text": "A large river carrying sediment and fresh water into the sea.",
+          "text": "橄欖石",
           "isCorrect": false,
-          "rationale": "Rivers introduce large volumes of fresh water, which significantly lowers the salinity of the surrounding coastal waters."
-        },
-        {
-          "text": "The melting of nearby glaciers or ice caps.",
-          "isCorrect": false,
-          "rationale": "Melting ice releases fresh water into the ocean, resulting in a decrease in salinity."
+          "rationale": "橄欖石是玄武岩的主要組成礦物，不是花岡岩的。"
         }
-      ],
-      "hint": "Think about the processes that remove pure water from the ocean while leaving the dissolved minerals behind."
+      ]
     },
     {
-      "question": "While hiking from the headwaters of a river toward the ocean, how would you expect the characteristics of the riverbed stones to change?",
+      "question": "關於臺灣的地震，下列敘述何者正確？",
       "answerOptions": [
         {
-          "text": "The stones will become smaller and more rounded.",
+          "text": "地震主要發生在西部平原",
+          "isCorrect": false,
+          "rationale": "臺灣的地震主要發生在東部及中央山脈一帶，西部較少。"
+        },
+        {
+          "text": "地震的震源深度越深，地表震度越大",
+          "isCorrect": false,
+          "rationale": "地震的震源深度越淺，地表震度通常越大。"
+        },
+        {
+          "text": "臺灣位於環太平洋地震帶上",
           "isCorrect": true,
-          "rationale": "Continuous collision and friction during transport wear down sharp edges and reduce the size of the sediments."
+          "rationale": "臺灣確實位於環太平洋地震帶上，地震頻繁。"
         },
         {
-          "text": "The stones will become larger and more angular due to accumulation.",
+          "text": "地震規模與震度是相同的概念",
           "isCorrect": false,
-          "rationale": "Angular stones are typically found near the source; transport makes them smoother, not more jagged."
-        },
-        {
-          "text": "The stones will change from metamorphic to sedimentary regardless of the source.",
-          "isCorrect": false,
-          "rationale": "While the sediment may eventually become sedimentary rock, the individual stones retain their original composition unless weathered away."
-        },
-        {
-          "text": "The stones will show no change because the river's flow is too slow.",
-          "isCorrect": false,
-          "rationale": "River transport is a major geological agent of physical weathering and sorting."
+          "rationale": "地震規模是釋放能量的量度，震度是地表搖晃的程度，兩者不同。"
         }
-      ],
-      "hint": "Recall the effects of long-term friction and physical weathering during the transport of debris."
+      ]
     },
     {
-      "question": "The Taroko Gorge is famous for its massive formations of marble. Which rock served as the original 'parent rock' before it underwent metamorphism to become marble?",
+      "question": "下列哪一種岩石是由岩漿噴發至地表快速冷卻形成的？",
       "answerOptions": [
         {
-          "text": "Limestone",
+          "text": "花岡岩",
+          "isCorrect": false,
+          "rationale": "花岡岩是岩漿在地下緩慢冷卻形成的，礦物顆粒較粗。"
+        },
+        {
+          "text": "玄武岩",
           "isCorrect": true,
-          "rationale": "Marble is formed when sedimentary limestone is subjected to high heat and pressure, causing recrystallization."
+          "rationale": "玄武岩是岩漿噴發至地表快速冷卻形成的，礦物顆粒細小。"
         },
         {
-          "text": "Shale",
+          "text": "大理岩",
           "isCorrect": false,
-          "rationale": "Metamorphosed shale typically turns into slate, phyllite, or schist, depending on the intensity of the pressure."
+          "rationale": "大理岩是石灰岩變質形成的，不是火成岩。"
         },
         {
-          "text": "Sandstone",
+          "text": "砂岩",
           "isCorrect": false,
-          "rationale": "Sandstone undergoes metamorphism to become quartzite, which is primarily composed of quartz."
-        },
-        {
-          "text": "Basalt",
-          "isCorrect": false,
-          "rationale": "Basalt is an igneous rock; while it can be metamorphosed, it does not turn into marble, which is carbonate-based."
+          "rationale": "砂岩是沉積岩，由砂粒膠結而成。"
         }
-      ],
-      "hint": "Think about a common sedimentary rock that is primarily composed of calcium carbonate."
+      ]
     },
     {
-      "question": "A massive volcanic eruption sends clouds of ash high into the atmosphere, blocking sunlight and affecting global temperatures. This scenario demonstrates an interaction between which two Earth spheres?",
+      "question": "關於地下水，下列敘述何者錯誤？",
       "answerOptions": [
         {
-          "text": "The Lithosphere and the Atmosphere",
+          "text": "地下水是重要的淡水資源",
+          "isCorrect": false,
+          "rationale": "地下水確實是重要的淡水資源，尤其在缺雨地區。"
+        },
+        {
+          "text": "過度抽取地下水可能導致地層下陷",
+          "isCorrect": false,
+          "rationale": "過度抽取地下水確實可能導致地層下陷。"
+        },
+        {
+          "text": "地下水永遠不會枯竭",
           "isCorrect": true,
-          "rationale": "Volcanic activity originates in the lithosphere and releases material (ash/gases) into the atmosphere, changing its composition and properties."
+          "rationale": "地下水若過度抽取且補注不足，仍可能枯竭。"
         },
         {
-          "text": "The Hydrosphere and the Biosphere only",
+          "text": "沿海地區過度抽取地下水可能導致海水入侵",
           "isCorrect": false,
-          "rationale": "While these spheres may be affected later, the primary immediate interaction described is between the solid earth and the air."
-        },
-        {
-          "text": "The Atmosphere and the Exosphere",
-          "isCorrect": false,
-          "rationale": "The exosphere is the outermost layer of space; the eruption occurs within the Earth's internal systems and lower atmosphere."
-        },
-        {
-          "text": "The Biosphere and the Cryosphere only",
-          "isCorrect": false,
-          "rationale": "The prompt focuses on volcanic ash in the air, which involves the atmosphere rather than just ice (cryosphere) or living things."
+          "rationale": "沿海地區過度抽取地下水確實可能導致海水入侵。"
         }
-      ],
-      "hint": "Identify the sphere where the volcano is located and the sphere where the ash clouds reside."
+      ]
     },
     {
-      "question": "To mitigate flooding in densely populated urban areas during extreme rainfall, which approach is considered most environmentally friendly and effective for drainage?",
+      "question": "下列哪一種地形是由河流的沉積作用形成的？",
       "answerOptions": [
         {
-          "text": "Replacing solid concrete pavements with permeable materials.",
+          "text": "峽谷",
+          "isCorrect": false,
+          "rationale": "峽谷是由河流的侵蝕作用形成的。"
+        },
+        {
+          "text": "沖積扇",
           "isCorrect": true,
-          "rationale": "Permeable materials allow rainwater to infiltrate the ground, reducing surface runoff and replenishing groundwater."
+          "rationale": "沖積扇是河流流出山區時流速減緩，沉積物堆積形成的扇形地。"
         },
         {
-          "text": "Diverting all rainwater into the local underground sewage system.",
+          "text": "瀑布",
           "isCorrect": false,
-          "rationale": "During extreme rain, sewage systems can become overwhelmed, leading to backflows and localized flooding."
+          "rationale": "瀑布是由河流侵蝕差異堅硬的岩層形成的。"
         },
         {
-          "text": "Covering all city parks with waterproof plastic to prevent mud.",
+          "text": "曲流",
           "isCorrect": false,
-          "rationale": "Waterproofing surfaces increases runoff and prevents natural infiltration, making flooding worse."
-        },
-        {
-          "text": "Building large walls around every building to block water.",
-          "isCorrect": false,
-          "rationale": "This does not solve the drainage issue and creates physical barriers that can trap water elsewhere."
+          "rationale": "曲流是河流側向侵蝕形成的，不是沉積地形。"
         }
-      ],
-      "hint": "Consider a method that mimics the natural water cycle by letting water soak into the earth."
+      ]
     },
     {
-      "question": "According to the scientific definition of a mineral, why is coal not classified as a mineral?",
+      "question": "關於岩石循環，下列敘述何者正確？",
       "answerOptions": [
         {
-          "text": "It is formed from organic matter.",
+          "text": "沉積岩可以直接熔化成岩漿",
+          "isCorrect": false,
+          "rationale": "沉積岩需先變質為變質岩，才可能熔化成岩漿。"
+        },
+        {
+          "text": "火成岩經過變質作用可形成變質岩",
           "isCorrect": true,
-          "rationale": "Minerals must be inorganic; coal is formed from the remains of ancient plants and is therefore organic."
+          "rationale": "火成岩在高溫高壓下可變質為變質岩，如花岡岩變為片麻岩。"
         },
         {
-          "text": "It is a solid substance found in nature.",
+          "text": "變質岩無法再變回火成岩",
           "isCorrect": false,
-          "rationale": "Being a natural solid is actually one of the requirements for a mineral, so this doesn't explain why coal is excluded."
+          "rationale": "變質岩若熔化後冷卻，仍可形成火成岩。"
         },
         {
-          "text": "It has a fixed chemical composition.",
+          "text": "岩石循環是單向不可逆的過程",
           "isCorrect": false,
-          "rationale": "Minerals must have a definite chemical formula; coal's composition varies, but its organic origin is the primary reason it is not a mineral."
-        },
-        {
-          "text": "It was created through high pressure underground.",
-          "isCorrect": false,
-          "rationale": "Many minerals are formed under high pressure, so this characteristic does not disqualify coal."
+          "rationale": "岩石循環是持續循環的過程，沒有固定方向。"
         }
-      ],
-      "hint": "Think about the requirement that a mineral must be produced by inorganic processes."
+      ]
     }
   ]
 }

@@ -1,265 +1,254 @@
 {
-  "title": "Literature Quiz",
   "questions": [
     {
-      "question": "In the poem \"Summer Night,\" how does the author create a sense of 'lively vitality' despite the setting being a quiet night?",
+      "question": "下列關於「夏夜」一詩中「月亮像銀盤」的比喻，何者說明最正確？",
       "answerOptions": [
         {
-          "text": "By describing the chaotic and noisy behavior of local villagers.",
+          "text": "強調月亮的形狀不規則",
           "isCorrect": false,
-          "rationale": "The poem focuses on the tranquility of the village and the family setting rather than chaotic human crowds."
+          "rationale": "詩中明確以「銀盤」比喻，應是強調圓形而非不規則形狀。"
         },
         {
-          "text": "By using personification to suggest that elements like the wind and the river are still 'awake'.",
+          "text": "凸顯月光的柔和質感",
           "isCorrect": true,
-          "rationale": "The author uses 'active' descriptions for nature, such as the river and wind being 'awake,' to contrast with the sleeping world and show life persists at night."
+          "rationale": "「銀盤」除形狀外，更透過金屬光澤隱喻月光的清冷柔和特質。"
         },
         {
-          "text": "By focusing on the intense heat and brightness of the summer sun.",
+          "text": "暗示時間流逝快速",
           "isCorrect": false,
-          "rationale": "The sun is described as having 'gone home' to signal the start of the night, shifting the focus away from daylight."
+          "rationale": "此比喻未涉及時間意象，與時序變化無直接關聯。"
         },
         {
-          "text": "By depicting a sudden snowstorm that changes the landscape to white.",
+          "text": "表現夏夜的悶熱感",
           "isCorrect": false,
-          "rationale": "This is a literal misinterpretation of the 'silver' imagery used to describe the moon and stars."
+          "rationale": "銀盤屬冷色調意象，與悶熱感相矛盾。"
         }
-      ],
-      "hint": "Consider how the author treats non-human elements like the 'night wind' or the 'small river'."
+      ]
     },
     {
-      "question": "Regarding the essay \"Mother's Teaching\" by Hu Shi, which description best captures the mother's approach to discipline?",
+      "question": "「母親的教誨」一文中，胡適母親教導他時最重視什麼？",
       "answerOptions": [
         {
-          "text": "She was overly indulgent and rarely corrected the child's mistakes.",
+          "text": "背誦經典的速度",
           "isCorrect": false,
-          "rationale": "The text describes her as 'strict' and 'kind,' indicating she did not let mistakes slide."
+          "rationale": "文中未提及背誦速度，而是強調做人道理。"
         },
         {
-          "text": "She preferred to scold the child in front of guests to ensure he felt ashamed.",
-          "isCorrect": false,
-          "rationale": "The text explicitly states she did not punish him in front of others to protect his self-esteem."
-        },
-        {
-          "text": "She balanced strictness with a desire to preserve the child's dignity.",
+          "text": "待人處事的原則",
           "isCorrect": true,
-          "rationale": "The mother provided firm guidance but chose private moments for discipline to respect the child's self-respect."
+          "rationale": "原文多次強調母親透過日常小事教導做人處世之道。"
         },
         {
-          "text": "She felt helpless and eventually gave up on trying to teach the child.",
+          "text": "學業成績的排名",
           "isCorrect": false,
-          "rationale": "The essay is a tribute to her successful and influential education style."
+          "rationale": "文中未將學業成就列為主要教誨內容。"
+        },
+        {
+          "text": "物質生活的節儉",
+          "isCorrect": false,
+          "rationale": "雖提及生活簡樸，但非教誨核心重點。"
         }
-      ],
-      "hint": "Focus on the setting and timing she chose for correcting her son."
+      ]
     },
     {
-      "question": "Which of the following is a primary characteristic of 'New Poetry' (Modern Poetry) mentioned in the study materials?",
+      "question": "下列商店宣傳語與行業配對，何者最不恰當？",
       "answerOptions": [
         {
-          "text": "It must follow strict traditional rhythmic and tonal patterns.",
+          "text": "「髮現新機」－理髮廳",
           "isCorrect": false,
-          "rationale": "Modern poetry is characterized by its break from traditional 'grid' and tonal constraints."
+          "rationale": "「髮」與「發」諧音雙關，符合行業特性。"
         },
         {
-          "text": "It emerged as a result of the Vernacular (White Speech) Language Movement.",
+          "text": "「麵麵俱到」－麵食館",
+          "isCorrect": false,
+          "rationale": "成語活用貼合麵食主題，屬恰當配對。"
+        },
+        {
+          "text": "「百衣百順」－電器行",
           "isCorrect": true,
-          "rationale": "The transition to New Poetry was a key part of the movement to use everyday language in literature."
+          "rationale": "原成語與服飾相關，用於電器行屬不當轉化。"
         },
         {
-          "text": "It is primarily used to record the historical genealogies of emperors.",
+          "text": "「食全食美」－餐廳",
           "isCorrect": false,
-          "rationale": "New Poetry is a creative art form focusing on emotions and experiences rather than official historical records."
-        },
-        {
-          "text": "It is limited to describing the inner worlds of small children only.",
-          "isCorrect": false,
-          "rationale": "While it can describe children, it covers a broad range of adult themes, social issues, and philosophies."
+          "rationale": "諧音修改自成語，符合餐飲業宣傳需求。"
         }
-      ],
-      "hint": "Think about the linguistic shift from 'Classical' to 'Modern' Chinese."
+      ]
     },
     {
-      "question": "Based on the logic of punctuation and sentence structure, which phrasing implies that a driver is effectively forced or permitted to park?",
+      "question": "「稻花香裡說豐年，聽取蛙聲一片」傳達的季節氛圍，與下列何者最相似？",
       "answerOptions": [
         {
-          "text": "Driver, waiting is not possible, park here temporarily.",
+          "text": "「停車坐愛楓林晚，霜葉紅於二月花」",
+          "isCorrect": false,
+          "rationale": "此句描寫秋季楓紅景象，與原句夏季意象不符。"
+        },
+        {
+          "text": "「牆角數枝梅，凌寒獨自開」",
+          "isCorrect": false,
+          "rationale": "描寫冬季梅花，季節特徵相反。"
+        },
+        {
+          "text": "「清明時節雨紛紛，路上行人欲斷魂」",
+          "isCorrect": false,
+          "rationale": "呈現春季陰雨，與豐收喜悅氛圍不同。"
+        },
+        {
+          "text": "「小荷才露尖尖角，早有蜻蜓立上頭」",
           "isCorrect": true,
-          "rationale": "By stating that waiting is impossible, the punctuation creates a logical necessity for the driver to stop/park."
-        },
-        {
-          "text": "Drivers and others, are not permitted here, to park.",
-          "isCorrect": false,
-          "rationale": "The placement of commas around 'not permitted' clearly forbids the action of parking."
-        },
-        {
-          "text": "Driver, wait; not permitted at this location, to park.",
-          "isCorrect": false,
-          "rationale": "The semicolon and comma reinforce the prohibition against parking at that specific spot."
-        },
-        {
-          "text": "Drivers: stop; not allowed; park here.",
-          "isCorrect": false,
-          "rationale": "The fragmented nature of the punctuation creates a contradictory and largely prohibitive command."
+          "rationale": "同屬夏季生機盎然的自然景象描寫。"
         }
-      ],
-      "hint": "Look for the sentence where 'cannot wait' acts as the reason for stopping."
+      ]
     },
     {
-      "question": "Which of these statements is an example of 'Irony' or 'Sarcasm' (saying the opposite of the literal truth for effect)?",
+      "question": "下列文句「」中的成語運用，何者完全正確？",
       "answerOptions": [
         {
-          "text": "The wind whispered secrets through the willow trees.",
+          "text": "他做事總是「按部就班」，毫無章法可言",
           "isCorrect": false,
-          "rationale": "This is personification, giving human qualities to the wind, rather than irony."
+          "rationale": "「按部就班」本指有條理，與後文矛盾。"
         },
         {
-          "text": "You are such a genius driver that you managed to hit the only pole in the field.",
+          "text": "這幅畫「栩栩如生」，彷彿要從紙上跳出來",
           "isCorrect": true,
-          "rationale": "The speaker calls the person a 'genius' while describing a foolish mistake, which is the definition of irony."
+          "rationale": "成語本義形容逼真生動，用法正確。"
         },
         {
-          "text": "The library is a treasure chest filled with gold and jewels.",
+          "text": "兩人意見「南轅北轍」，最終達成共識",
           "isCorrect": false,
-          "rationale": "This is a metaphor comparing books to treasure, intended to be taken as a positive comparison."
+          "rationale": "成語意指方向完全相反，與達成共識矛盾。"
         },
         {
-          "text": "The sunset was as red as a blooming hibiscus flower.",
+          "text": "他「罄竹難書」的善行，值得我們學習",
           "isCorrect": false,
-          "rationale": "This is a simile using 'as' to compare the color of the sunset to a flower."
+          "rationale": "該成語多用於罪行，褒貶誤用。"
         }
-      ],
-      "hint": "Look for a compliment being used to describe a failure."
+      ]
     },
     {
-      "question": "In the poem about the sugar factory, what is the most likely symbolic meaning of the 'salt' found on the farmers' bodies?",
+      "question": "關於新詩的特點，下列敘述何者正確？",
       "answerOptions": [
         {
-          "text": "The seasoning used for the sugar-making process.",
+          "text": "必須嚴格遵守平仄格律",
           "isCorrect": false,
-          "rationale": "The poem focuses on the human condition of the workers, not the chemical recipe for sugar."
+          "rationale": "新詩打破傳統格律限制，此為舊詩特徵。"
         },
         {
-          "text": "The ocean spray from a nearby coastal factory.",
+          "text": "只能描寫現代社會題材",
           "isCorrect": false,
-          "rationale": "The context implies labor in the fields ('cane farmers'), not necessarily a seaside location."
+          "rationale": "新詩題材廣泛，不受時代內容限制。"
         },
         {
-          "text": "The sweat produced by their intense physical labor.",
+          "text": "重視語言節奏與意象創新",
           "isCorrect": true,
-          "rationale": "Salt is a common metaphor for the sweat of workers, highlighting their hardship and toil."
+          "rationale": "此為新詩區別於傳統詩歌的核心特徵。"
         },
         {
-          "text": "The financial debts that the farmers owe to the factory.",
+          "text": "每行字數必須完全相同",
           "isCorrect": false,
-          "rationale": "While farmers may have debt, 'salt' on the body is a physical descriptor typically linked to physical exertion."
+          "rationale": "新詩形式自由，無此硬性規定。"
         }
-      ],
-      "hint": "Think about what physical substance remains on skin after working hard in a hot field."
+      ]
     },
     {
-      "question": "According to the passage comparing flowers and leaves, what philosophy of life does the 'leaf' represent?",
+      "question": "下列標點符號使用，何者完全正確？",
       "answerOptions": [
         {
-          "text": "The desire to be the center of attention and outshine others.",
+          "text": "「我不知道該選蘋果、香蕉，還是橘子」？",
           "isCorrect": false,
-          "rationale": "The leaf is described as 'ordinary' and 'quiet,' which is the opposite of seeking the spotlight."
+          "rationale": "問號應置於引號內，句尾不需再加標點。"
         },
         {
-          "text": "Quietly contributing to the whole while maintaining inner peace.",
+          "text": "他驚訝地說：「你真的完成了！」",
           "isCorrect": true,
-          "rationale": "The author praises the leaf for nourishing the tree and growing quietly without the vanity of the flower."
+          "rationale": "冒號、引號與驚嘆號的使用皆符合規範。"
         },
         {
-          "text": "Being fragile and easily destroyed by the wind.",
+          "text": "這本書討論了：歷史，文化，和藝術。",
           "isCorrect": false,
-          "rationale": "The text suggests leaves are actually 'more durable' and long-lasting than flowers."
+          "rationale": "冒號後列舉項目應使用頓號而非逗號。"
         },
         {
-          "text": "Competing with others to see who can become red first in autumn.",
+          "text": "我們需要準備紙、筆，還有橡皮擦。",
           "isCorrect": false,
-          "rationale": "The 'red' in autumn is described as a 'faint' and natural transition, not a competition."
+          "rationale": "並列項目應統一使用頓號或逗號。"
         }
-      ],
-      "hint": "The leaf's value comes from its role in the tree's growth, not its appearance."
+      ]
     },
     {
-      "question": "If a poet uses the imagery of 'frogs croaking' and 'a fire-like sun,' which season are they most likely describing?",
+      "question": "「無心的錯誤」一文給我們最重要的啟示是什麼？",
       "answerOptions": [
         {
-          "text": "Spring, when flowers first begin to bloom.",
-          "isCorrect": false,
-          "rationale": "Spring is usually associated with gentle winds and blossoms rather than 'fire-like' heat."
-        },
-        {
-          "text": "Winter, when the world is covered in silver snow.",
-          "isCorrect": false,
-          "rationale": "Frogs are typically dormant in winter, and the sun is rarely described as 'fire-like' in cold seasons."
-        },
-        {
-          "text": "Summer, the peak of heat and animal activity.",
+          "text": "犯錯後應勇於承認並改正",
           "isCorrect": true,
-          "rationale": "The 'fire-like' sun (\u70c8\u65e5) and 'frogs croaking' are classic literary symbols for the height of summer."
+          "rationale": "全文核心在面對錯誤的態度，此選項最貼近主旨。"
         },
         {
-          "text": "Autumn, when the leaves turn red and fall.",
+          "text": "錯誤都是不可原諒的",
           "isCorrect": false,
-          "rationale": "Autumn is characterized by cool breezes and falling leaves, not the intense heat mentioned."
+          "rationale": "與文中寬容待人的精神相違背。"
+        },
+        {
+          "text": "做事前要再三猶豫",
+          "isCorrect": false,
+          "rationale": "過度解讀，非原文強調重點。"
+        },
+        {
+          "text": "懲罰才能避免再犯",
+          "isCorrect": false,
+          "rationale": "文中更重視自省而非外在懲戒。"
         }
-      ],
-      "hint": "Focus on the intensity of the heat and the specific animals that are loudest during hot nights."
+      ]
     },
     {
-      "question": "In the context of business slogans using puns (homophones), why might a wedding shop using the phrase 'Ice Cold Logic' (\u51b0\u51b0\u6709\u7406) be considered 'inappropriate'?",
+      "question": "下列關於胡適母親教育方式的敘述，何者正確？",
       "answerOptions": [
         {
-          "text": "Because 'logic' is too difficult for customers to understand.",
+          "text": "當眾嚴厲指正以加深印象",
           "isCorrect": false,
-          "rationale": "The issue isn't the difficulty of the word, but the emotional tone it sets for the occasion."
+          "rationale": "文中明確提到母親避免當眾責備。"
         },
         {
-          "text": "Because a wedding is associated with warmth and romance, not 'ice cold' feelings.",
+          "text": "透過生活實例引導思考",
           "isCorrect": true,
-          "rationale": "A successful pun-based slogan should align with the desired atmosphere of the product or service; 'ice cold' contradicts the warmth of a wedding."
+          "rationale": "原文多處顯示母親善用日常機會教育。"
         },
         {
-          "text": "Because wedding shops are not allowed to use puns in their advertising.",
+          "text": "要求背誦大量儒家經典",
           "isCorrect": false,
-          "rationale": "There are no legal rules against puns; it is a matter of marketing effectiveness and thematic fit."
+          "rationale": "文中未提及強制背經典的教學方式。"
         },
         {
-          "text": "Because the slogan is a famous quote from a history book.",
+          "text": "以物質獎勵鼓勵學習",
           "isCorrect": false,
-          "rationale": "The source material presents these as creative puns for shops, not as historical quotes."
+          "rationale": "與文中清貧自持的家風不符。"
         }
-      ],
-      "hint": "Consider the 'vibe' or emotional connection people expect when planning a marriage."
+      ]
     },
     {
-      "question": "What does the line 'Waxing moon / Waning moon' (\u4e0a\u5f26\u6708\uff0f\u4e0b\u5f26\u6708) primarily evoke in the reader, according to the source material?",
+      "question": "下列詩句的修辭手法，何者說明錯誤？",
       "answerOptions": [
         {
-          "text": "A sense of deep confusion and indecisiveness.",
+          "text": "「時間是偷走青春的賊」－轉化",
           "isCorrect": false,
-          "rationale": "While the moon changes, the phases represent a cycle, not necessarily a state of mind like confusion."
+          "rationale": "正確，將抽象時間擬人化為具體形象。"
         },
         {
-          "text": "The physical shape of a person's smile.",
+          "text": "「思念如潮水般湧來」－明喻",
           "isCorrect": false,
-          "rationale": "While the moon is sometimes compared to a smile, in this specific poetic context, the focus is on the cycle of change."
+          "rationale": "正確，使用「如」字明確構成比喻。"
         },
         {
-          "text": "The rapid and inevitable passage of time.",
+          "text": "「沉默是金，雄辯是銀」－排比",
+          "isCorrect": false,
+          "rationale": "正確，相同句式並列屬排比修辭。"
+        },
+        {
+          "text": "「他的話像刀子一樣」－誇飾",
           "isCorrect": true,
-          "rationale": "References to lunar phases signify the progression of days and months, symbolizing how time flies."
-        },
-        {
-          "text": "A warning about an approaching natural disaster.",
-          "isCorrect": false,
-          "rationale": "Standard lunar phases are natural cycles and do not typically symbolize impending disasters in this literary style."
+          "rationale": "此為比喻而非誇飾，未故意擴大描述。"
         }
-      ],
-      "hint": "Think about what changes when the moon goes through its full cycle."
+      ]
     }
   ]
 }

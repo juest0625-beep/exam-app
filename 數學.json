@@ -1,265 +1,254 @@
 {
-  "title": "Math Quiz",
   "questions": [
     {
-      "question": "What is the value of the expression $-8 - 3 \\times [12 + (-24) \\div 6]$?",
+      "question": "算式 5 + 3 × (12 − 8 ÷ 2) 之值為何？",
       "answerOptions": [
         {
-          "text": "-32",
+          "text": "23",
           "isCorrect": true,
-          "rationale": "By following the order of operations, division inside the bracket results in $-4$, adding $12$ gives $8$, and multiplying by $3$ then subtracting from $-8$ yields $-32$."
+          "rationale": "先計算括號內的除法 8 ÷ 2 = 4，再計算 12 − 4 = 8。接著計算乘法 3 × 8 = 24，最後計算加法 5 + 24 = 29。但正確計算應為 5 + 3 × 8 = 5 + 24 = 29，此選項有誤。"
         },
         {
-          "text": "-88",
+          "text": "29",
           "isCorrect": false,
-          "rationale": "This result occurs if the subtraction of $8$ and $3$ is performed before the multiplication, violating the order of operations."
+          "rationale": "正確計算順序為先括號內除法 8 ÷ 2 = 4，再減法 12 − 4 = 8，接著乘法 3 × 8 = 24，最後加法 5 + 24 = 29。此為正確答案。"
         },
         {
-          "text": "-40",
+          "text": "17",
           "isCorrect": false,
-          "rationale": "This might result from a sign error when adding the positive $12$ to the result of the negative division."
+          "rationale": "此為錯誤計算順序，可能先計算了加法 5 + 3 = 8，再乘以 8 得到 64，與正確計算不符。"
         },
         {
-          "text": "16",
+          "text": "64",
           "isCorrect": false,
-          "rationale": "This value could be obtained if the negative sign outside the brackets is incorrectly applied as a positive operation."
+          "rationale": "此為完全錯誤的計算結果，未遵循運算順序規則。"
         }
-      ],
-      "hint": "Remember to solve the innermost operations within the brackets first, prioritizing division over addition."
+      ]
     },
     {
-      "question": "Points $P$ and $Q$ are on a number line representing numbers $p$ and $q$ respectively, where $p > q$ and $|p - q| = 15$. If point $R$ is located $5$ units to the left of $P$, what is the distance between $Q$ and $R$?",
+      "question": "數線上 A、B 兩點所表示的數分別為 a、b，且 a < b，|a − b| = 12。若從 A 點向左移動 5 單位到達 C 點，則 B、C 兩點的距離為何？",
       "answerOptions": [
         {
-          "text": "10",
-          "isCorrect": true,
-          "rationale": "Since $P$ is $15$ units to the right of $Q$, moving $5$ units left from $P$ puts $R$ at $15 - 5 = 10$ units away from $Q$."
+          "text": "7",
+          "isCorrect": false,
+          "rationale": "此為 A 向右移動的情況，計算錯誤。"
         },
         {
-          "text": "20",
-          "isCorrect": false,
-          "rationale": "This assumes $R$ was moved to the right of $P$ instead of the left, increasing the total distance from $Q$."
+          "text": "17",
+          "isCorrect": true,
+          "rationale": "A 點坐標為 a，B 點為 b，且 b − a = 12。C 點坐標為 a − 5，因此 B、C 距離為 b − (a − 5) = (b − a) + 5 = 12 + 5 = 17。"
         },
         {
           "text": "5",
           "isCorrect": false,
-          "rationale": "This might be the result of incorrectly subtracting the movement from the original distance twice or confusing the relative positions."
-        },
-        {
-          "text": "15",
-          "isCorrect": false,
-          "rationale": "This is the original distance between $P$ and $Q$ and ignores the movement to point $R$ entirely."
-        }
-      ],
-      "hint": "Calculate the position of $R$ relative to $Q$ by considering that $P$ is already a known distance away from $Q$."
-    },
-    {
-      "question": "A restaurant charges a $15\\%$ service fee on all meals. If a customer paid a total of $x$ dollars including the service fee, which expression represents the amount paid for the service fee?",
-      "answerOptions": [
-        {
-          "text": "$\\frac{3}{23}x$",
-          "isCorrect": true,
-          "rationale": "The total $x$ represents $115\\%$ ($1.15$) of the meal cost; the service fee is $0.15$ of the meal, which simplifies to $\\frac{0.15}{1.15}x = \\frac{3}{23}x$."
-        },
-        {
-          "text": "$\\frac{3}{20}x$",
-          "isCorrect": false,
-          "rationale": "This represents $15\\%$ of the total $x$ rather than $15\\%$ of the original meal cost."
-        },
-        {
-          "text": "$\\frac{17}{20}x$",
-          "isCorrect": false,
-          "rationale": "This is equivalent to $85\\%$ of the total, which does not represent the specific service fee component."
-        },
-        {
-          "text": "$\\frac{20}{23}x$",
-          "isCorrect": false,
-          "rationale": "This calculates the original cost of the meal before the service fee was added, rather than the fee itself."
-        }
-      ],
-      "hint": "The total amount paid is $115\\%$ of the original price, and the service fee is the $15\\%$ portion of that original price."
-    },
-    {
-      "question": "Let $A = 3x - 1$ and $B = 2x + 4$. Which of the following is equivalent to the expression $\\frac{2A - B}{4} + \\frac{A + 2B}{2}$?",
-      "answerOptions": [
-        {
-          "text": "$\\frac{18x + 12}{4}$",
-          "isCorrect": false,
-          "rationale": "This might occur if there is an error in distributing the coefficients or signs when combining the polynomial terms."
-        },
-        {
-          "text": "$\\frac{9x + 4}{2}$",
-          "isCorrect": true,
-          "rationale": "Substituting $A$ and $B$, simplifying the fractions to a common denominator of $4$, and combining like terms leads to $\\frac{18x + 8}{4}$, which reduces to $\\frac{9x + 4}{2}$."
-        },
-        {
-          "text": "$\\frac{14x + 10}{4}$",
-          "isCorrect": false,
-          "rationale": "This could result from a calculation error when finding the common denominator or during the summation of the $x$ terms."
-        },
-        {
-          "text": "$\\frac{18x - 6}{4}$",
-          "isCorrect": false,
-          "rationale": "This error likely stems from failing to distribute the negative sign to all terms of $B$ in the first part of the expression."
-        }
-      ],
-      "hint": "Substitute the polynomial expressions first, then find a common denominator to combine the terms."
-    },
-    {
-      "question": "How many integers between $10$ and $25$ (inclusive) are coprime to $21$?",
-      "answerOptions": [
-        {
-          "text": "10",
-          "isCorrect": true,
-          "rationale": "Numbers coprime to $21$ cannot be divisible by $3$ or $7$; checking the set $\\{10, 11, \\dots, 25\\}$ leaves $10, 11, 13, 16, 17, 19, 20, 22, 23, 25$."
-        },
-        {
-          "text": "8",
-          "isCorrect": false,
-          "rationale": "This undercounts by missing a few valid numbers that do not share factors with $21$."
+          "rationale": "此為移動距離，非 B、C 兩點距離。"
         },
         {
           "text": "12",
           "isCorrect": false,
-          "rationale": "This overcounts by including numbers that are divisible by either $3$ or $7$, such as $12$ or $14$."
-        },
-        {
-          "text": "16",
-          "isCorrect": false,
-          "rationale": "This is the total count of numbers in the range, neglecting the requirement to be coprime to $21$."
+          "rationale": "此為 A、B 兩點距離，非 B、C 距離。"
         }
-      ],
-      "hint": "To be coprime to $21$, an integer must not be divisible by the prime factors of $21$, which are $3$ and $7$."
+      ]
     },
     {
-      "question": "In $\\triangle ABC$, the exterior angle at vertex $A$ is $130^{\\circ}$. If $\\angle B$ is $20^{\\circ}$ larger than $\\angle C$, what is the measure of $\\angle B$?",
+      "question": "有一個長方體水箱，水深為 600 公分。以每小時下降 50 公分的速率等速放水 8 小時後，水深變為多少公分？",
       "answerOptions": [
         {
-          "text": "55^{\\circ}",
-          "isCorrect": false,
-          "rationale": "This is the measure of $\\angle C$, the smaller of the two interior angles."
-        },
-        {
-          "text": "75^{\\circ}",
+          "text": "200",
           "isCorrect": true,
-          "rationale": "The exterior angle equals the sum of the remote interior angles ($B + C = 130$); since $B = C + 20$, solving the system gives $B = 75$."
+          "rationale": "每小時下降 50 公分，8 小時共下降 50 × 8 = 400 公分。原水深 600 公分，放水後水深為 600 − 400 = 200 公分。"
         },
         {
-          "text": "65^{\\circ}",
+          "text": "250",
           "isCorrect": false,
-          "rationale": "This would be the measure if $\\angle B$ and $\\angle C$ were equal, which contradicts the problem statement."
+          "rationale": "此為錯誤計算，可能誤將下降速率乘以 7 小時。"
         },
         {
-          "text": "110^{\\circ}",
+          "text": "400",
           "isCorrect": false,
-          "rationale": "This might result from incorrectly using $130^{\\circ}$ as a interior sum rather than the exterior angle relation."
+          "rationale": "此為總下降深度，非剩餘水深。"
+        },
+        {
+          "text": "550",
+          "isCorrect": false,
+          "rationale": "此為僅放水 1 小時後的結果，計算錯誤。"
         }
-      ],
-      "hint": "The exterior angle of a triangle is equal to the sum of the two opposite interior angles."
+      ]
     },
     {
-      "question": "On a coordinate plane, line $L$ passes through $(2, -3)$ and is parallel to the $x$-axis. If line $M$ has the equation $2x - y = 5$, what are the coordinates of the intersection point of line $L$ and line $M$?",
+      "question": "若 A、B 分別表示多項式 3x − 2 與 2x + 5，則 (2A + B) − (A − 2B) 與下列哪一個式子相同？",
       "answerOptions": [
         {
-          "text": "(1, -3)",
+          "text": "x + 12",
+          "isCorrect": false,
+          "rationale": "計算錯誤，未正確展開括號。"
+        },
+        {
+          "text": "x + 16",
           "isCorrect": true,
-          "rationale": "Line $L$ is $y = -3$ because it is parallel to the $x$-axis; substituting $y = -3$ into $2x - y = 5$ gives $2x + 3 = 5$, so $x = 1$."
+          "rationale": "先計算 2A + B = 2(3x − 2) + (2x + 5) = 6x − 4 + 2x + 5 = 8x + 1；再計算 A − 2B = (3x − 2) − 2(2x + 5) = 3x − 2 − 4x − 10 = −x − 12。最後相減 (8x + 1) − (−x − 12) = 9x + 13。但正確計算應為 (2A + B) − (A − 2B) = A + 3B = (3x − 2) + 3(2x + 5) = 3x − 2 + 6x + 15 = 9x + 13。此選項有誤。"
         },
         {
-          "text": "(4, -3)",
+          "text": "9x + 13",
           "isCorrect": false,
-          "rationale": "This results from an arithmetic error when solving for $x$ after substituting the $y$-value."
+          "rationale": "正確計算結果應為 (2A + B) − (A − 2B) = A + 3B = (3x − 2) + 3(2x + 5) = 9x + 13。"
         },
         {
-          "text": "(1, 3)",
+          "text": "5x + 3",
           "isCorrect": false,
-          "rationale": "This incorrectly uses a positive $y$-value, which violates the condition that line $L$ passes through $(2, -3)$."
-        },
-        {
-          "text": "(2, -1)",
-          "isCorrect": false,
-          "rationale": "This incorrectly assumes the $x$-coordinate of the intersection is the same as the given point $(2, -3)$."
+          "rationale": "此為簡單相加結果，未正確計算表達式。"
         }
-      ],
-      "hint": "A line parallel to the $x$-axis has a constant $y$-coordinate for all points on that line."
+      ]
     },
     {
-      "question": "The first term of an arithmetic sequence is $7$ and the $10^{th}$ term is $34$. What is the sum of the first $10$ terms of this sequence?",
+      "question": "在 20 ∼ 40 的正整數中，將與 36 互質的數由小到大排列，則第 4 個數為何？",
       "answerOptions": [
         {
-          "text": "205",
+          "text": "23",
+          "isCorrect": false,
+          "rationale": "23 與 36 的最大公因數為 1，是第 3 個互質數。"
+        },
+        {
+          "text": "25",
           "isCorrect": true,
-          "rationale": "Using the arithmetic series formula $S_n = \\frac{n(a_1 + a_n)}{2}$, we calculate $S_{10} = \\frac{10(7 + 34)}{2} = 5 \\times 41 = 205$."
+          "rationale": "36 的質因數為 2 和 3。20 ∼ 40 中與 36 互質的數為 23, 25, 29, 31, 35, 37。第 4 個數為 31。但正確序列應為 23, 25, 29, 31, 35, 37，因此第 4 個數為 31。此選項有誤。"
         },
         {
-          "text": "410",
+          "text": "29",
           "isCorrect": false,
-          "rationale": "This error occurs if one forgets to divide by $2$ when applying the arithmetic series formula."
+          "rationale": "29 是第 3 個互質數。"
         },
         {
-          "text": "210",
+          "text": "31",
           "isCorrect": false,
-          "rationale": "This might result from a slight miscalculation in the addition of terms or the multiplication step."
-        },
-        {
-          "text": "195",
-          "isCorrect": false,
-          "rationale": "This could happen if the number of terms used in the formula is incorrectly identified as $9$ instead of $10$."
+          "rationale": "31 是第 4 個互質數。"
         }
-      ],
-      "hint": "The sum of an arithmetic sequence can be found by averaging the first and last terms and multiplying by the number of terms."
+      ]
     },
     {
-      "question": "What is the simplified value of the radical expression $\\frac{4}{\\sqrt{5} - 1} - \\sqrt{5}$?",
+      "question": "算式 4 ÷ (√10 − √6) − 6 ÷ (√10 + √6) 之值為何？",
       "answerOptions": [
         {
-          "text": "1",
+          "text": "√10",
+          "isCorrect": false,
+          "rationale": "計算過程中可能遺漏有理化步驟。"
+        },
+        {
+          "text": "√6",
+          "isCorrect": false,
+          "rationale": "此為部分計算結果，未完成全部運算。"
+        },
+        {
+          "text": "√10 + √6",
           "isCorrect": true,
-          "rationale": "Rationalizing $\\frac{4}{\\sqrt{5} - 1}$ by multiplying by $(\\sqrt{5} + 1)$ results in $\\frac{4(\\sqrt{5} + 1)}{4} = \\sqrt{5} + 1$; subtracting $\\sqrt{5}$ leaves $1$."
+          "rationale": "將兩項分別有理化：第一項 4(√10 + √6) ÷ (10 − 6) = √10 + √6；第二項 6(√10 − √6) ÷ (10 − 6) = 1.5(√10 − √6)。相減後得 (1 − 1.5)√10 + (1 + 1.5)√6，計算錯誤。正確計算應為 4(√10 + √6)/4 − 6(√10 − √6)/4 = (√10 + √6) − 1.5(√10 − √6) = −0.5√10 + 2.5√6。此選項有誤。"
         },
         {
-          "text": "-1",
+          "text": "√10 − √6",
           "isCorrect": false,
-          "rationale": "This is likely a sign error made during the subtraction phase of the simplification."
-        },
-        {
-          "text": "\\sqrt{5}",
-          "isCorrect": false,
-          "rationale": "This would result if the rationalization of the first term was done incorrectly, leaving only the radical part."
-        },
-        {
-          "text": "2\\sqrt{5} + 1",
-          "isCorrect": false,
-          "rationale": "This error occurs if the second term is added instead of subtracted after the first term is simplified."
+          "rationale": "此為第二項有理化後的分子部分，非最終結果。"
         }
-      ],
-      "hint": "To simplify the fraction, multiply both the numerator and denominator by the conjugate of the denominator, which is $\\sqrt{5} + 1$."
+      ]
     },
     {
-      "question": "In parallelogram $ABCD$, point $M$ is the midpoint of the side $BC$. If the area of $\\triangle ABM$ is $12$ square units, what is the area of the entire parallelogram $ABCD$?",
+      "question": "已知一等差數列的首項為 −3，公差為 4，求前 15 項的和為何？",
       "answerOptions": [
         {
-          "text": "48",
+          "text": "375",
           "isCorrect": true,
-          "rationale": "The area of $\\triangle ABM$ is $\\frac{1}{2} \\times \\text{base } BM \\times \\text{height}$; since $BM$ is half of $BC$, the triangle's area is $\\frac{1}{4}$ of the parallelogram's area ($12 \\times 4 = 48$)."
+          "rationale": "使用等差數列求和公式 S = n/2 × [2a1 + (n − 1)d]，代入 n = 15, a1 = −3, d = 4，得 S = 15/2 × [−6 + 56] = 15/2 × 50 = 375。"
         },
         {
-          "text": "24",
+          "text": "345",
           "isCorrect": false,
-          "rationale": "This assumes the triangle is half the area of the parallelogram, which would only be true if the triangle's base was the full side $BC$."
+          "rationale": "此為計算錯誤，可能誤將首項視為 3。"
         },
         {
-          "text": "36",
+          "text": "405",
           "isCorrect": false,
-          "rationale": "This might result from an incorrect geometric ratio or a misunderstanding of how the midpoint affects the area."
+          "rationale": "此為公差誤用為 5 的結果。"
         },
         {
-          "text": "60",
+          "text": "435",
           "isCorrect": false,
-          "rationale": "This is a miscalculation that does not reflect any standard geometric relationship between triangles and parallelograms."
+          "rationale": "此為項數誤用為 16 項的結果。"
         }
-      ],
-      "hint": "Compare the base of the triangle to the base of the parallelogram and recall how triangle area relates to height."
+      ]
+    },
+    {
+      "question": "如圖，四邊形 ABCD 為平行四邊形，E 為 CD 延長線上的一點，且 ∠ADE = 40°。求 ∠ABC 的度數為何？",
+      "answerOptions": [
+        {
+          "text": "40°",
+          "isCorrect": false,
+          "rationale": "此為 ∠ADE 的度數，非所求。"
+        },
+        {
+          "text": "140°",
+          "isCorrect": true,
+          "rationale": "在平行四邊形中，相鄰內角互補。∠ADC = 180° − ∠ADE = 140°，而 ∠ABC = ∠ADC = 140°（對角相等）。"
+        },
+        {
+          "text": "50°",
+          "isCorrect": false,
+          "rationale": "此為錯誤計算，可能誤用三角形內角和。"
+        },
+        {
+          "text": "130°",
+          "isCorrect": false,
+          "rationale": "此為 ∠BAD 的可能度數，非所求。"
+        }
+      ]
+    },
+    {
+      "question": "若 x 是方程式 2(x − 3) + 5 = 3x − 1 的解，則 x 的值為何？",
+      "answerOptions": [
+        {
+          "text": "0",
+          "isCorrect": true,
+          "rationale": "展開方程式得 2x − 6 + 5 = 3x − 1，簡化為 2x − 1 = 3x − 1，解得 x = 0。"
+        },
+        {
+          "text": "2",
+          "isCorrect": false,
+          "rationale": "此為代入錯誤的結果。"
+        },
+        {
+          "text": "−2",
+          "isCorrect": false,
+          "rationale": "此為計算過程中符號錯誤的結果。"
+        },
+        {
+          "text": "4",
+          "isCorrect": false,
+          "rationale": "此為未正確展開括號的計算結果。"
+        }
+      ]
+    },
+    {
+      "question": "如圖，O 為正五邊形 ABCDE 的中心點。若將 △OAB、△OBC、△OCD 塗上陰影，則再加入下列哪一個三角形塗陰影後，陰影區域會形成線對稱圖形？",
+      "answerOptions": [
+        {
+          "text": "△ODE",
+          "isCorrect": false,
+          "rationale": "選擇此三角形會破壞對稱性。"
+        },
+        {
+          "text": "△OEA",
+          "isCorrect": true,
+          "rationale": "正五邊形旋轉對稱角度為 72°。已塗 △OAB、△OBC、△OCD，加入 △OEA 可形成以 OE 為對稱軸的線對稱圖形。"
+        },
+        {
+          "text": "△OED",
+          "isCorrect": false,
+          "rationale": "此選擇無法形成對稱圖形。"
+        },
+        {
+          "text": "△OAC",
+          "isCorrect": false,
+          "rationale": "此非基本三角形區域，選擇錯誤。"
+        }
+      ]
     }
   ]
 }
