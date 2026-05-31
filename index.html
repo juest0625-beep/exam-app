@@ -110,11 +110,13 @@ footer { text-align: center; padding: 20px; color: #aaa; font-size: 0.75rem; }
 
 <script>
 // ── State ──
-const SUBJECTS = ['英文','數學','國文','自然','社會'];
-const EXTRA_SUBJECTS = [{'label':'自然(圖)','file':'自然-image'},{'label':'模擬考','file':'模擬考'}];
+const SUBJECTS = ['英文','數學','國文','社會'];
+const NATURE_YEARS = ['105','106','107','108','109','110','112','113','114','115'];
+const EXTRA_SUBJECTS = [{'label':'模擬考','file':'模擬考'}];
 
 let state = {
   subject: '英文',
+  natureYear: '105',
   questions: [],
   current: 0,
   answered: [],
@@ -124,7 +126,13 @@ let state = {
 // ── Load quiz ──
 async function loadQuiz(subject, filename) {
   state.subject = subject;
-  const fname = filename || subject;
+  let fname = filename || subject;
+
+  // For nature, use year-based files
+  if (subject === '自然') {
+    fname = `自然-${state.natureYear}`;
+  }
+
   try {
     const resp = await fetch(`${fname}.json`);
     if (!resp.ok) throw new Error('Not found');
@@ -151,9 +159,24 @@ function renderTabs() {
     const active = s === state.subject ? ' active' : '';
     return `<div class="subject-tab${active}" onclick="loadQuiz('${s}')">${s}<div class="count">${state.questions.length}題</div></div>`;
   }).join('');
+
+  // Nature tab special: click toggles year selector
+  const natureActive = state.subject === '自然' ? ' active' : '';
+  html += `<div class="subject-tab${natureActive}" style="background:#e8f8f0;border-color:#27ae60" onclick="loadQuiz('自然')">自然<div class="count">${state.questions.length}題</div></div>`;
+
+  // Year sub-tabs when nature is selected
+  if (state.subject === '自然') {
+    html += '<div style="width:100%;display:flex;gap:4px;flex-wrap:wrap;justify-content:center;margin-top:4px">';
+    html += NATURE_YEARS.map(y => {
+      const yActive = y === state.natureYear ? 'active' : '';
+      return `<div class="subject-tab${yActive}" style="padding:6px 12px;font-size:0.8rem" onclick="state.natureYear='${y}';loadQuiz('自然')">${y}年</div>`;
+    }).join('');
+    html += '</div>';
+  }
+
   html += EXTRA_SUBJECTS.map(es => {
     const active = es.label === state.subject ? ' active' : '';
-    return `<div class="subject-tab${active}" style="background:#fef3e2;border-color:#f0a030" onclick="loadQuiz('${es.label}','${es.file}')">${es.label}<div class="count">🖼️</div></div>`;
+    return `<div class="subject-tab${active}" style="background:#fef3e2;border-color:#f0a030" onclick="loadQuiz('${es.label}','${es.file}')">${es.label}<div class="count">📋</div></div>`;
   }).join('');
   tabs.innerHTML = html;
 }
