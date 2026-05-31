@@ -92,7 +92,7 @@
         },
         {
           "text": "(B) 樹皮顏色改變使淺色蛾比深色蛾存活率高",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -119,7 +119,7 @@
         },
         {
           "text": "(C) ①為物理性質、②為化學性質",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -151,7 +151,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -183,7 +183,7 @@
         },
         {
           "text": "(D) 不適當，左方全為內溫動物，但右方不全為外溫動物 左方 右方 魚類 兩生類 哺乳類 爬蟲",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -232,7 +232,7 @@
         },
         {
           "text": "(A) | 在完全相同的茶壺中，分別裝入",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -313,7 +313,7 @@
         },
         {
           "text": "(B) 乙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -335,7 +335,7 @@
         },
         {
           "text": "(B) 乙與丙的基因型相同",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -367,7 +367,7 @@
         },
         {
           "text": "(C) 在自然界中，多以元素狀態存在的金屬元素",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -384,7 +384,7 @@
       "answerOptions": [
         {
           "text": "(A) 加熱後會熔化",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -416,7 +416,7 @@
         },
         {
           "text": "(B) 此岩層在海洋的環境沉積而成",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -443,7 +443,7 @@
         },
         {
           "text": "(B) 若甲是銀河系，則乙可填入太陽 審",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -507,7 +507,7 @@
         },
         {
           "text": "(D) 若提高甲的活性，會使澱粉的分解速率變快 澱 0 時間 圖（十）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -529,7 +529,7 @@
         },
         {
           "text": "(C) 丙 乙 丙- 丁-",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -610,7 +610,7 @@
         },
         {
           "text": "(C) 丙 乙 丙- 丁-",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -637,7 +637,7 @@
         },
         {
           "text": "(C) 混合物",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -696,7 +696,7 @@
         },
         {
           "text": "(D) 揮手的命令是由運動神經傳遞",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -723,7 +723,7 @@
         },
         {
           "text": "(D) 西方地平線附近 圖（十六） 拍攝時間：99/05/29 （農曆16日） 凌晨4:30 拍攝地點：自家頂樓 圖（十七） 6 請翻頁繼續作答",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -735,7 +735,7 @@
       "answerOptions": [
         {
           "text": "(A) 物質X為醣類，由韌皮部運輸",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -804,7 +804,7 @@
         },
         {
           "text": "(D) 甲有4對成對的染色體，乙有2對成對的染色體 甲 乙 圖（二十）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -853,7 +853,7 @@
         },
         {
           "text": "(C) 氣溫與氣壓皆隨高度升高而降低",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -907,7 +907,7 @@
         },
         {
           "text": "(C) 此聲波大象聽得到，而兔子聽不到 大象 16～12000",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -939,7 +939,7 @@
         },
         {
           "text": "(D) 燈泡乙仍正常發亮且流經燈泡乙的電流大小仍不變",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -961,7 +961,7 @@
         },
         {
           "text": "(B) 20°C、90°C、95°C",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -983,7 +983,7 @@
         },
         {
           "text": "(B) 北緯40度",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1032,7 +1032,7 @@
       "answerOptions": [
         {
           "text": "(A) 甲、乙部位的藥劑皆先進入右心房",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1064,7 +1064,7 @@
         },
         {
           "text": "(B) 2:1 3",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1123,7 +1123,7 @@
         },
         {
           "text": "(C) 火山",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1145,7 +1145,7 @@
         },
         {
           "text": "(B) 生產者的總能量：乙＞甲",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1356,7 +1356,7 @@
       "answerOptions": [
         {
           "text": "(A) 寄生",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1393,7 +1393,7 @@
         },
         {
           "text": "(C) 酵母菌",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1420,7 +1420,7 @@
         },
         {
           "text": "(C) 將60W的白熾燈改為9W的LED 燈泡",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1442,7 +1442,7 @@
         },
         {
           "text": "(B) 1447000 44 ×6×1023個CO分 1447",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1479,7 +1479,7 @@
         },
         {
           "text": "(D) 當氣溫為31°C 且溼度很高時，酷熱指數可能會達到極度危險等級",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1496,7 +1496,7 @@
         },
         {
           "text": "(B) 為吸熱的變化，水分子內的原子不會重新排列",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {

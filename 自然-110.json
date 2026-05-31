@@ -281,7 +281,7 @@
         },
         {
           "text": "(B) 吸收藍光",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -308,7 +308,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -330,7 +330,7 @@
       "answerOptions": [
         {
           "text": "(A) 《花朵圖鑑》",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -357,7 +357,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -384,7 +384,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -453,7 +453,7 @@
         },
         {
           "text": "(D) 乙為氧氣，在地表附近空氣中所占的比例幾乎不隨地點改變 甲 （78%） /2F其他 （1%） 圖（五）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -480,7 +480,7 @@
         },
         {
           "text": "(D) 乙為氧氣，在地表附近空氣中所占的比例幾乎不隨地點改變 甲 （78%） /2F其他 （1%） 圖（五） 13. 小新專題研究的題目是「日常生活的食物—油條」，他在",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -497,7 +497,7 @@
         },
         {
           "text": "(B) 氣化氫",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -519,7 +519,7 @@
       "answerOptions": [
         {
           "text": "(A) 應朝西方天空尋找，因為地球自轉的關係",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -546,7 +546,7 @@
       "answerOptions": [
         {
           "text": "(A) 1~2；上升到5～7",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -600,7 +600,7 @@
       "answerOptions": [
         {
           "text": "(A) 逆時鐘方向往颱風中心流入",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -642,7 +642,7 @@
         },
         {
           "text": "(D) 360 乙 100 300 20 120",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -659,7 +659,7 @@
         },
         {
           "text": "(A) 甲：BB+Bb>bb",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -723,7 +723,7 @@
         },
         {
           "text": "(D) 只有小菲是依化學性質分類 5",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -816,7 +816,7 @@
       "answerOptions": [
         {
           "text": "(A) XP=Xz",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -858,7 +858,7 @@
         },
         {
           "text": "(D) 往左下角移動 6 請翻頁繼續作答",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -924,7 +924,7 @@
       "answerOptions": [
         {
           "text": "(A) 控制中樞僅為脊髓",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -961,7 +961,7 @@
         },
         {
           "text": "(B) 甲：帶正電，乙：帶負電",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -993,7 +993,7 @@
         },
         {
           "text": "(D) Fe2+的電子數>Fe'*的電子數 7",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1020,7 +1020,7 @@
         },
         {
           "text": "(D) 丁：是否為體內受精 乙 甲 表（八） 臺灣鈍頭蛇 丙 一臺北樹蛙 臺灣馬口魚 臺灣藍鵲 臺灣野兔",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1042,7 +1042,7 @@
         },
         {
           "text": "(C) 約在北緯23.5度",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1086,7 +1086,7 @@
       "answerOptions": [
         {
           "text": "(A) 左心房和左心室之間",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1128,7 +1128,7 @@
         },
         {
           "text": "(D) 甲為固態，乙為液態，丙為氣態 放熱 甲 放熱 圖（十七） 放熱 丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1155,7 +1155,7 @@
         },
         {
           "text": "(D) 戊和庚同時為捕食和競爭關係 己 戊＜ 丙 甲 玻璃管 乙 圖（十八）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1182,7 +1182,7 @@
         },
         {
           "text": "(D) Q、S 玻璃管 •R 76 cm Q S 水銀 水平桌面 圖（十九） 水",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1199,7 +1199,7 @@
         },
         {
           "text": "(B) 甲應標示L，屬於冷氣團",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1231,7 +1231,7 @@
         },
         {
           "text": "(C) 正南方",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1253,7 +1253,7 @@
         },
         {
           "text": "(B) 甲的質量為50g，乙的體積為80cm’ S00mL 00 $00 S00mL 300 100",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1577,7 +1577,7 @@
         },
         {
           "text": "(B) 與劍龍有共同的祖先",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1609,7 +1609,7 @@
         },
         {
           "text": "(C) 甲類生物化石 劍龍化石 暴龍化石",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1641,7 +1641,7 @@
         },
         {
           "text": "(D) 於同一層火山灰岩層中發現劍龍與三角龍的化石 14 試題結束",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],

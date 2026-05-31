@@ -6,7 +6,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -60,7 +60,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -119,7 +119,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -146,7 +146,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -173,7 +173,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -200,7 +200,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -232,7 +232,7 @@
         },
         {
           "text": "(C) 油脂＋氫氧化鈉 —>",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -254,7 +254,7 @@
         },
         {
           "text": "(B) 丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -281,7 +281,7 @@
         },
         {
           "text": "(C) 子代具有親代的部分特徵",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -308,7 +308,7 @@
         },
         {
           "text": "(B) 乙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -335,7 +335,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -372,7 +372,7 @@
         },
         {
           "text": "(D) 不會有丁種的三葉蟲化石 生奥陶紀 代寒武紀 紀為代之下更細分的年代",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -394,7 +394,7 @@
         },
         {
           "text": "(C) 細胞分裂",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -411,7 +411,7 @@
       "answerOptions": [
         {
           "text": "(A) 藍色石蕊試紙變成紅色",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -465,7 +465,7 @@
       "answerOptions": [
         {
           "text": "(A) 液態的鐵",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -497,7 +497,7 @@
         },
         {
           "text": "(B) 11:10~15:10 地",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -561,7 +561,7 @@
         },
         {
           "text": "(D) 僅乙細胞含有葉綠體",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -573,7 +573,7 @@
       "answerOptions": [
         {
           "text": "(A) 兩人均合理",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -610,7 +610,7 @@
         },
         {
           "text": "(C) 1",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -637,7 +637,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -654,7 +654,7 @@
       "answerOptions": [
         {
           "text": "(A) 紅光",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -686,7 +686,7 @@
         },
         {
           "text": "(B) 階段一為S，階段二為SO2",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -713,7 +713,7 @@
         },
         {
           "text": "(B) 階段一為S，階段二為SO2",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -767,7 +767,7 @@
         },
         {
           "text": "(B) 觸電後感覺疼痛一乙、丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -799,7 +799,7 @@
         },
         {
           "text": "(C) 三地的變化趨勢皆隨著高度增加而遞減",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -816,7 +816,7 @@
       "answerOptions": [
         {
           "text": "(A) 兩者常會因經過海面而挾帶水氣",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -853,7 +853,7 @@
         },
         {
           "text": "(C) 消化脂質的功能下降",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -897,7 +897,7 @@
       "answerOptions": [
         {
           "text": "(A) CaClz",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -929,7 +929,7 @@
         },
         {
           "text": "(C) 2:3:6",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -966,7 +966,7 @@
         },
         {
           "text": "(D) 丁",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -983,7 +983,7 @@
         },
         {
           "text": "(B) 銅線乙：向南",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1032,7 +1032,7 @@
       "answerOptions": [
         {
           "text": "(A) 以單原子組成的氣體分子，約占78.1%",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1064,7 +1064,7 @@
         },
         {
           "text": "(B) 5m",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1101,7 +1101,7 @@
         },
         {
           "text": "(D) 甲＞乙，丙>丁 票厅 心臟 右 左 肝臟 丙 腎臟 圖（二十一）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1123,7 +1123,7 @@
         },
         {
           "text": "(C) 若進行減數分裂，則乙與丙必分離至不同的細胞中",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1145,7 +1145,7 @@
         },
         {
           "text": "(C) 丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1177,7 +1177,7 @@
         },
         {
           "text": "(C) 地函熱對流的岩漿湧出",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1226,7 +1226,7 @@
         },
         {
           "text": "(B) 40gw，方向向右",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1248,7 +1248,7 @@
       "answerOptions": [
         {
           "text": "(A) 木塊沒入液體中的體積變小 500mL油",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1285,7 +1285,7 @@
         },
         {
           "text": "(C) 一年直射兩次，分別發生在1月分和12月分",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1312,7 +1312,7 @@
         },
         {
           "text": "(C) 不具有果實的構造",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1334,7 +1334,7 @@
         },
         {
           "text": "(C) 91 g100g水 采",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1388,7 +1388,7 @@
         },
         {
           "text": "(B) 甲、丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1420,7 +1420,7 @@
         },
         {
           "text": "(C) 營養素X會；物質Y不會",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1437,7 +1437,7 @@
       "answerOptions": [
         {
           "text": "(A) 煙類化合物",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1479,7 +1479,7 @@
         },
         {
           "text": "(D) 3:2 請閱讀下列敘述後，回答51~52題 圖（三十一）為小育在海邊依序拍攝的四張照片，其角落的標號表示拍攝的先 後順序，四張照片均在相同位置、相同角度下拍攝，",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1545,7 +1545,7 @@
       "answerOptions": [
         {
           "text": "(A) 規模",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
