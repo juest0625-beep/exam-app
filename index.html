@@ -111,6 +111,11 @@ footer { text-align: center; padding: 20px; color: #aaa; font-size: 0.75rem; }
 <script>
 // ── State ──
 const SUBJECTS = ['英文','數學','國文','自然','社會'];
+const EXTRA_SUBJECTS = [{'label':'自然(圖)','file':'自然-image'}];
+
+async function loadQuiz(subject, filename) {
+  state.subject = subject;
+  const fname = filename || subject;
 let state = {
   subject: '英文',
   questions: [],
@@ -120,10 +125,11 @@ let state = {
 };
 
 // ── Load quiz ──
-async function loadQuiz(subject) {
+async function loadQuiz(subject, filename) {
   state.subject = subject;
+  const fname = filename || subject;
   try {
-    const resp = await fetch(`${subject}.json`);
+    const resp = await fetch(`${fname}.json`);
     if (!resp.ok) throw new Error('Not found');
     const data = await resp.json();
     state.questions = data.questions || [];
@@ -144,10 +150,15 @@ function renderAll() {
 
 function renderTabs() {
   const tabs = document.getElementById('tabs');
-  tabs.innerHTML = SUBJECTS.map(s => {
+  let html = SUBJECTS.map(s => {
     const active = s === state.subject ? ' active' : '';
     return `<div class="subject-tab${active}" onclick="loadQuiz('${s}')">${s}<div class="count">${state.questions.length}題</div></div>`;
   }).join('');
+  html += EXTRA_SUBJECTS.map(es => {
+    const active = es.label === state.subject ? ' active' : '';
+    return `<div class="subject-tab${active}" style="background:#fef3e2;border-color:#f0a030" onclick="loadQuiz('${es.label}','${es.file}')">${es.label}<div class="count">🖼️</div></div>`;
+  }).join('');
+  tabs.innerHTML = html;
 }
 
 function renderSetup() {
@@ -207,9 +218,13 @@ function renderQuiz() {
     ).join('')}</div>`;
   }
 
+  const hasImage = q.image && q.image.length > 50;
+  const imageHtml = hasImage ? `<div style="text-align:center;margin-bottom:16px"><img src="${q.image}" style="max-width:100%;max-height:340px;border-radius:10px;border:1px solid #eee" onerror="this.style.display='none'" alt="題目附圖"></div>` : '';
+
   el.innerHTML = `<div class="quiz-card">
     <div class="progress">${dots}</div>
     <div class="question-num">第 ${state.current+1} / ${state.questions.length} 題</div>
+    ${imageHtml}
     <div class="question-text">${q.question.replace(/_____/g, '<span class="blank">______</span>')}</div>
     <div class="options">${options}</div>
     ${explanationHtml}
