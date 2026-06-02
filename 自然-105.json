@@ -37,17 +37,17 @@
           "rationale": ""
         },
         {
+          "text": "(B) 先沉積後搬運",
+          "isCorrect": false,
+          "rationale": ""
+        },
+        {
           "text": "(C) 先搬運後沉積",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
-          "text": "(B) 先沉積後搬運 D）先搬運後侵蝕 西元1970 年某果園內白蟲和黑蟲所占 的數量比例相同，其後每隔10年再次 調查，發現白",
-          "isCorrect": false,
-          "rationale": ""
-        },
-        {
-          "text": "選項4",
+          "text": "(D) 先搬運後侵蝕",
           "isCorrect": false,
           "rationale": ""
         }
@@ -281,7 +281,7 @@
         },
         {
           "text": "(B) 甲：固態，乙：氣態，丙：液態 X（甲狀態） ＞X..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -340,7 +340,7 @@
         },
         {
           "text": "(C) 丙 乙",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -453,7 +453,7 @@
         },
         {
           "text": "(D) 葵瓜子為種子，南瓜子為果實 100 向日葵雌蕊 ..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -465,7 +465,7 @@
       "answerOptions": [
         {
           "text": "(A) 甲、乙、丙三層的地層幾乎是水平狀態",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -502,7 +502,7 @@
         },
         {
           "text": "(D) 地球遮住太陽射向月球的光 20. 有甲、乙、丙和丁四杯體積均為100 mL 的水溶液，其中兩杯為碳酸鈉溶液，另 外兩杯為",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -546,7 +546,7 @@
       "answerOptions": [
         {
           "text": "(A) 寳驗組別 粉筆顏色 浸泡時間（s） 粉筆長度（cm） 一 白 20 8 = 白 40 8 白 60 8 四 白 80 8",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -821,7 +821,7 @@
         },
         {
           "text": "(A) 00000000 NIS 磁鐵棒 磁鐵棒快速靠近 線圈。",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -907,7 +907,7 @@
         },
         {
           "text": "(B) 甲 ：3cm，丙：4cm D）甲 ：27cm，丙：64 cm 35. 將甲、乙、丙三種不同材質的實心物體堆疊後放入密度為",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -929,7 +929,7 @@
         },
         {
           "text": "(C) 0.80g/cm’",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1226,7 +1226,7 @@
         },
         {
           "text": "(B) 兩人皆不正確",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1307,7 +1307,7 @@
         },
         {
           "text": "(B) 電磁感應",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": "⚠️ 答案待驗證"
         },
         {
@@ -1317,7 +1317,7 @@
         },
         {
           "text": "(D) 電流的熱效應",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "⚠️ 答案待驗證"
         }
       ],
@@ -1329,7 +1329,7 @@
       "answerOptions": [
         {
           "text": "(A) I =I =1丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1361,12 +1361,12 @@
         },
         {
           "text": "(B) 甲、乙皆為上升氣流的天氣系統",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": "⚠️ 答案待驗證"
         },
         {
           "text": "(C) 甲為下沉氣流、乙為上升氣流的天氣系統",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "⚠️ 答案待驗證"
         },
         {
@@ -1388,12 +1388,12 @@
         },
         {
           "text": "(B) 風向大致為北風，附近有一颱風靠近",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(C) 風向大致為南風，受太平洋上的暖氣團籠罩",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -1415,7 +1415,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1425,7 +1425,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -1437,7 +1437,7 @@
       "answerOptions": [
         {
           "text": "(A) 0.36M",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": "⚠️ 答案待驗證"
         },
         {
@@ -1452,7 +1452,7 @@
         },
         {
           "text": "(D) 9.00M 13 試題結束",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "⚠️ 答案待驗證"
         }
       ],
