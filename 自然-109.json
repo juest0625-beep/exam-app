@@ -6,7 +6,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -33,7 +33,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -178,12 +178,12 @@
         },
         {
           "text": "(C) 乙，丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 乙，丁 甲 丙 丁",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -200,7 +200,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -232,7 +232,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -281,7 +281,7 @@
         },
         {
           "text": "(B) 挑球 殺球 1 挑球",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -291,7 +291,7 @@
         },
         {
           "text": "(D) 放小球 放小球一！ 球網 水平地面 圖（七）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -313,12 +313,12 @@
         },
         {
           "text": "(C) 頻率",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 振幅 2 請翻頁繼續作答",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -340,7 +340,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -362,7 +362,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -384,7 +384,7 @@
       "answerOptions": [
         {
           "text": "(A) 甲＞乙＞丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -394,7 +394,7 @@
         },
         {
           "text": "(C) 丙＞乙＞甲",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -416,7 +416,7 @@
         },
         {
           "text": "(B) CaH",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -426,7 +426,7 @@
         },
         {
           "text": "(D) CH;COOCHls",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -470,7 +470,7 @@
         },
         {
           "text": "(B) 篩選出不被物質X破壞的細菌",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -480,7 +480,7 @@
         },
         {
           "text": "(D) 會刺激人體細胞分泌物質X以破壞細菌",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -492,12 +492,12 @@
       "answerOptions": [
         {
           "text": "(A) 屬於有性生殖",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(C) 子代不具有繁殖能力",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -519,7 +519,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -556,7 +556,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -610,7 +610,7 @@
         },
         {
           "text": "(B) 氣溫 （°C） 204",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -627,12 +627,12 @@
       "answerOptions": [
         {
           "text": "(A) 兩杯都有沉澱 溶 140F 甲 解 120",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(B) 兩杯都無沉澱 度 100",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -681,7 +681,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -713,7 +713,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -735,12 +735,12 @@
       "answerOptions": [
         {
           "text": "(A) 只有實驗甲是吸熱反應",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(B) 只有實驗甲是放熱反應",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -772,7 +772,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -799,12 +799,12 @@
         },
         {
           "text": "(B)",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(D)",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -816,7 +816,7 @@
       "answerOptions": [
         {
           "text": "(A) 蛇",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -826,7 +826,7 @@
         },
         {
           "text": "(C) 蜘蛛",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -843,7 +843,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -870,12 +870,12 @@
       "answerOptions": [
         {
           "text": "(A) 鈉",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(B) 乙醇",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -907,12 +907,12 @@
         },
         {
           "text": "(C) 氧化劑，還原反應",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(D) 氧化劑，氧化反應",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -929,12 +929,12 @@
         },
         {
           "text": "(B) 12 〇 18 12 12",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(C) 17 17 12 11",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -961,12 +961,12 @@
         },
         {
           "text": "(C) 孩子的祖父母捲舌基因型必相同",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 孩子的祖父母捲舌表現型必相異 8 請翻頁繼續作答",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -983,7 +983,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1020,7 +1020,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -1032,7 +1032,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1069,12 +1069,12 @@
         },
         {
           "text": "(C) 丙",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(D)",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1101,7 +1101,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -1118,7 +1118,7 @@
         },
         {
           "text": "(B) 乙 水 水 杯中有水及 大量冰塊 圖（二十八）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1150,7 +1150,7 @@
         },
         {
           "text": "(C) 接通開關S」、S；及S」後，燈泡甲發亮，燈泡乙不亮",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1172,7 +1172,7 @@
         },
         {
           "text": "(B) 乙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1194,7 +1194,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1236,7 +1236,7 @@
         },
         {
           "text": "(D) 甲：蛋白質，乙：肝臟",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1263,7 +1263,7 @@
         },
         {
           "text": "(D) 3650",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1290,7 +1290,7 @@
         },
         {
           "text": "(D) 只有美玲",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1312,7 +1312,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1329,7 +1329,7 @@
       "answerOptions": [
         {
           "text": "(A) 5分鐘",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {

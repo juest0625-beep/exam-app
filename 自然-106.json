@@ -6,12 +6,12 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -33,7 +33,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -60,12 +60,12 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -168,7 +168,7 @@
       "answerOptions": [
         {
           "text": "(A) 方法甲和方法乙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -367,12 +367,12 @@
         },
         {
           "text": "(C) 不會有丙種的三葉蟲化石",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 不會有丁種的三葉蟲化石 生奥陶紀 代寒武紀 紀為..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -389,12 +389,12 @@
         },
         {
           "text": "(B) 運輪水分厂",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(C) 細胞分裂",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -443,7 +443,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -534,7 +534,7 @@
         },
         {
           "text": "(D) 銀河系中心 4",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -605,12 +605,12 @@
         },
         {
           "text": "(B) 0.5",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(C) 1",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -735,7 +735,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -767,12 +767,12 @@
         },
         {
           "text": "(B) 觸電後感覺疼痛一乙、丙",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(C) 受器接受刺激後傳至中樞神經一乙、丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -789,7 +789,7 @@
       "answerOptions": [
         {
           "text": "(A) 僅丙的變化趨勢隨高度增加而遞減",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -799,7 +799,7 @@
         },
         {
           "text": "(C) 三地的變化趨勢皆隨著高度增加而遞減",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -816,7 +816,7 @@
       "answerOptions": [
         {
           "text": "(A) 兩者常會因經過海面而挾帶水氣",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -826,7 +826,7 @@
         },
         {
           "text": "(C) 甲主要源自於高氣壓，乙主要源自於低氣壓",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -853,12 +853,12 @@
         },
         {
           "text": "(C) 消化脂質的功能下降",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(D) 吸收葡萄糖的功能下降 甲 圖（十五） 6",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -880,7 +880,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -897,12 +897,12 @@
       "answerOptions": [
         {
           "text": "(A) CaClz",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(C) Na,SO4",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -924,12 +924,12 @@
       "answerOptions": [
         {
           "text": "(A) -1:1:3",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(C) 2:3:6",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -961,12 +961,12 @@
         },
         {
           "text": "(C) 丙 吸收途徑 大氣吸收的大氣吸收的 地表輻射量 ..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 丁",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -983,7 +983,7 @@
         },
         {
           "text": "(B) 銅線乙：向南",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -993,7 +993,7 @@
         },
         {
           "text": "(D) 銅線丁：向北 N 北 電池 電阻； S 圖（十七..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1010,7 +1010,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1064,12 +1064,12 @@
         },
         {
           "text": "(B) 5m",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(C) 6m",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1177,12 +1177,12 @@
         },
         {
           "text": "(C) 地函熱對流的岩漿湧出",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(D) 地球上最古老的海洋地殼",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1209,7 +1209,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -1248,7 +1248,7 @@
       "answerOptions": [
         {
           "text": "(A) 木塊沒入液體中的體積變小",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -1263,7 +1263,7 @@
         },
         {
           "text": "(D) 木塊在液體中所受的浮力變大",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1312,12 +1312,12 @@
         },
         {
           "text": "(C) 不具有果實的構造",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(D) 白果為開花後產生 白果 圖（二十八） 10",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1334,7 +1334,7 @@
         },
         {
           "text": "(C)",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -1344,7 +1344,7 @@
         },
         {
           "text": "(D)",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1361,7 +1361,7 @@
         },
         {
           "text": "(C) RP=R =R丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1383,12 +1383,12 @@
       "answerOptions": [
         {
           "text": "(A) 甲、乙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(B) 甲、丙",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -1420,12 +1420,12 @@
         },
         {
           "text": "(C) 營養素X會；物質Y不會",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(D) 營養素X不會；物質Y會 11 請翻頁繼續作答",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1437,7 +1437,7 @@
       "answerOptions": [
         {
           "text": "(A) 煙類化合物",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -1469,7 +1469,7 @@
         },
         {
           "text": "(B) 1:2",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1479,7 +1479,7 @@
         },
         {
           "text": "(D) 3:2 請閱讀下列敘述後，回答51~52題 圖（..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -1491,7 +1491,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1528,7 +1528,7 @@
         },
         {
           "text": "(B) 照片2及照片3 D）照片4及照片1 請閱讀下列敘述後，回答53~54題 圖（三十二）為某地的斷層與地震測站示意 圖，*代",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {

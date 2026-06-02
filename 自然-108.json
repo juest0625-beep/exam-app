@@ -11,7 +11,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -70,7 +70,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -129,7 +129,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -141,7 +141,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -168,7 +168,7 @@
       "answerOptions": [
         {
           "text": "(A) 單位時間內產生氧氣的量",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -178,7 +178,7 @@
         },
         {
           "text": "(B) 單位時間內消耗葉綠素的量",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -249,12 +249,12 @@
       "answerOptions": [
         {
           "text": "(A) 1:2",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(B) 2:1",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -281,12 +281,12 @@
         },
         {
           "text": "(B) 乙、丙是相同的原子",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(C) 乙、丁的帶電量相同",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -345,7 +345,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -357,7 +357,7 @@
       "answerOptions": [
         {
           "text": "(A) 此道路是在潮間帶的範圍內",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -372,7 +372,7 @@
         },
         {
           "text": "(D) 此地潮差越大，道路能露出的最大寬度越窄 沙灘 海..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -389,7 +389,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -443,7 +443,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -470,12 +470,12 @@
         },
         {
           "text": "(B) 岩層形成後才受力而傾斜",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(C) 當時形成的環境屬於陸地環境",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -529,12 +529,12 @@
         },
         {
           "text": "(C) 丙 組別 親代基因型 乙 丙 丁 tt×Tt T..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(D)",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -551,12 +551,12 @@
         },
         {
           "text": "(B) 乙 圖（八）",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(C) 丙",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -578,12 +578,12 @@
         },
         {
           "text": "(C) 胸腔變大",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(B) 横膈上升",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -600,12 +600,12 @@
       "answerOptions": [
         {
           "text": "(A) 20.9%",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(C) 78.1%",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -654,7 +654,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -686,12 +686,12 @@
         },
         {
           "text": "(B) 屬於裸子植物，因具有針狀葉",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(C) 屬於被子植物，因具有花的構造",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -735,7 +735,7 @@
       "answerOptions": [
         {
           "text": "(A) 板塊",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -767,7 +767,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -848,7 +848,7 @@
         },
         {
           "text": "(B) 液體化合物",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -858,7 +858,7 @@
         },
         {
           "text": "(D) 固體化合物 6 請翻頁繼續作答",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -875,12 +875,12 @@
         },
         {
           "text": "(C) 因進行還原反應，所以為氧化劑",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(B) 因進行氧化反應，所以為還原劑",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -902,7 +902,7 @@
         },
         {
           "text": "(B) 甲為低氣壓，風向以東北風為主",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -912,7 +912,7 @@
         },
         {
           "text": "(D) 甲為高氣壓，風",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -924,12 +924,12 @@
       "answerOptions": [
         {
           "text": "(A) 快報 13:43 南投地震 規模6.3 深度10..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(B) 快報 13:43南投地震 最大震度在仁愛鄉6.3級",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -951,7 +951,7 @@
       "answerOptions": [
         {
           "text": "(A) Ip ＞ 丙 導體甲 導體乙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1010,7 +1010,7 @@
         },
         {
           "text": "(B) X>Y,T<40°C",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -1020,7 +1020,7 @@
         },
         {
           "text": "(D) X<Y,T<40°C 愛00- 盃60- 0 -..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1069,12 +1069,12 @@
         },
         {
           "text": "(C) 碳棒乙和電極丙 甲 碳 棒 乙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 碳棒乙和電極丁 電 極 丁 、硫酸銅",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -1096,7 +1096,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1113,12 +1113,12 @@
       "answerOptions": [
         {
           "text": "(A) 甲",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(B) 乙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1140,7 +1140,7 @@
       "answerOptions": [
         {
           "text": "(A) 第（一）句合理，因為這些氧化物溶於海水中會使海水..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1150,7 +1150,7 @@
         },
         {
           "text": "(C) 第（二）句合理，因為這些海洋生物的碳酸鈣外殼會與..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -1177,12 +1177,12 @@
         },
         {
           "text": "(C) 甲＞乙＞丙",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 丙＞乙＞甲 左 一",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -1199,7 +1199,7 @@
         },
         {
           "text": "(B) 乙：光合作用",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1209,7 +1209,7 @@
         },
         {
           "text": "(D) 丁：蛋白質 甲 生產者 消費者 28- 排泄物 ..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -1253,12 +1253,12 @@
         },
         {
           "text": "(B) 甲位在韌皮部，乙為醣類",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(C) 甲位在木質部，乙為礦物質",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {

@@ -16,7 +16,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -141,7 +141,7 @@
       "answerOptions": [
         {
           "text": "(A) 甲與丁",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -156,7 +156,7 @@
         },
         {
           "text": "(D) 乙與丙 有報導指出：「在都市觀察到麻雀的頻率有變..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -276,7 +276,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -330,7 +330,7 @@
       "answerOptions": [
         {
           "text": "(A) 笑氣＞硫磺",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -345,7 +345,7 @@
         },
         {
           "text": "(D) 三個例子都一樣多",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -362,7 +362,7 @@
         },
         {
           "text": "(B) 甲、乙皆為冷空氣",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -372,7 +372,7 @@
         },
         {
           "text": "(D) 甲為冷空氣、乙為暖空氣 甲 乙 地面 圖（二） 1",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -384,7 +384,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -416,7 +416,7 @@
         },
         {
           "text": "(B) 使用同一種的生雞蛋，改於聖誕節正午時在臺灣成功立蛋",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -426,7 +426,7 @@
         },
         {
           "text": "(D) 另拿不同種的生雞蛋，並於端午節正午時在臺灣成功立..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -465,7 +465,7 @@
       "answerOptions": [
         {
           "text": "(A) 甲能釋出O2，但乙不能",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -475,7 +475,7 @@
         },
         {
           "text": "(C) 乙能釋出O2，但甲不能",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -502,7 +502,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -524,7 +524,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -546,7 +546,7 @@
       "answerOptions": [
         {
           "text": "(A)",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -556,7 +556,7 @@
         },
         {
           "text": "(C) 30ppm",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -610,12 +610,12 @@
         },
         {
           "text": "(C) 不適用於宜蘭，因為冬天時位處季風迎風面的宜蘭氣候偏乾",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 不適用於高雄，因為冬天時位處季風背風面的高雄氣候..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -654,7 +654,7 @@
       "answerOptions": [
         {
           "text": "(A) 至少有一顆紅球",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -669,7 +669,7 @@
         },
         {
           "text": "(D) 最多有兩顆綠球 3",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -708,7 +708,7 @@
       "answerOptions": [
         {
           "text": "(A) 砂岩形成的時間，比頁岩形成的時間晚",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -723,7 +723,7 @@
         },
         {
           "text": "(D) 頁岩形成的時間，可能介於6~8百萬年前之間 砂岩..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -735,7 +735,7 @@
       "answerOptions": [
         {
           "text": "(A) W>Z",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -762,12 +762,12 @@
       "answerOptions": [
         {
           "text": "(A) 最大靜摩擦力為",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(B) 外力F由0增加至",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -789,7 +789,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -843,7 +843,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -875,12 +875,12 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -924,7 +924,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -956,7 +956,7 @@
         },
         {
           "text": "(B) 最多包含3個目、6個屬",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -966,7 +966,7 @@
         },
         {
           "text": "(D) 最多包含4個目、6個屬",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -993,7 +993,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -1015,12 +1015,12 @@
         },
         {
           "text": "(C) 分別加熱相同質量的鋁和銅，先開始熔化者比熱較小",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 分別加熱相同質量的鋁和銅，溫度上升較快者比熱較小",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -1037,7 +1037,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1069,7 +1069,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {

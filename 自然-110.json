@@ -16,7 +16,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -33,7 +33,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -102,7 +102,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -129,7 +129,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -183,7 +183,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -205,7 +205,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -227,7 +227,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -254,7 +254,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -276,12 +276,12 @@
       "answerOptions": [
         {
           "text": "(A) 吸收紅光",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(B) 吸收藍光",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -330,7 +330,7 @@
       "answerOptions": [
         {
           "text": "(A) 《花朵圖鑑》",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -345,7 +345,7 @@
         },
         {
           "text": "(D) 《維管束植物簡介》",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -416,7 +416,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -438,7 +438,7 @@
       "answerOptions": [
         {
           "text": "(A) 甲被稱為固定氣體，乙則不是固定氣體",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -453,7 +453,7 @@
         },
         {
           "text": "(D) 乙為氧氣，在地表附近空氣中所占的比例幾乎不隨地點..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -497,12 +497,12 @@
         },
         {
           "text": "(B) 氣化氫",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(C) 水蒸氣",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -546,7 +546,7 @@
       "answerOptions": [
         {
           "text": "(A) 1~2；上升到5～7",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -556,7 +556,7 @@
         },
         {
           "text": "(C) 7~8；上升到8～9",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -583,7 +583,7 @@
         },
         {
           "text": "(C) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -600,7 +600,7 @@
       "answerOptions": [
         {
           "text": "(A) 逆時鐘方向往颱風中心流入",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -615,7 +615,7 @@
         },
         {
           "text": "(D) 順時鐘方向從颱風中心流出 臺灣 1002 4 圖..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -627,7 +627,7 @@
       "answerOptions": [
         {
           "text": "(A) 60 物體",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -642,7 +642,7 @@
         },
         {
           "text": "(D) 360",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -659,7 +659,7 @@
         },
         {
           "text": "(A) 甲：BB+Bb>bb",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -669,7 +669,7 @@
         },
         {
           "text": "(C) 丙：BB=Bb=bb",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -681,7 +681,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -708,7 +708,7 @@
       "answerOptions": [
         {
           "text": "(A) 兩人都是依物理性質分類",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -723,7 +723,7 @@
         },
         {
           "text": "(D) 只有小菲是依化學性質分類 5",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -750,7 +750,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -804,7 +804,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -885,7 +885,7 @@
         },
         {
           "text": "(D) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         }
       ],
@@ -902,7 +902,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -924,12 +924,12 @@
       "answerOptions": [
         {
           "text": "(A) 控制中樞僅為脊髓",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(B) 需有感覺神經元參與",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -978,7 +978,7 @@
       "answerOptions": [
         {
           "text": "(A) Fe+的質子數>Fe的電子數",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -993,7 +993,7 @@
         },
         {
           "text": "(D) Fe2+的電子數>Fe'*的電子數 7",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -1042,12 +1042,12 @@
         },
         {
           "text": "(C) 約在北緯23.5度",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(D) 約在北緯45度 春分：約3月21日 夏至：約6月..",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1059,7 +1059,7 @@
       "answerOptions": [
         {
           "text": "(A) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
@@ -1086,12 +1086,12 @@
       "answerOptions": [
         {
           "text": "(A) 左心房和左心室之間",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(B) 右心房和右心室之間 日",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1123,12 +1123,12 @@
         },
         {
           "text": "(C) 甲為固態，乙為氣態，丙為液態",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) 甲為固態，乙為液態，丙為氣態 放熱 甲 放熱 圖..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -1140,7 +1140,7 @@
       "answerOptions": [
         {
           "text": "(A) 甲和乙會競爭食物",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1155,7 +1155,7 @@
         },
         {
           "text": "(D) 戊和庚同時為捕食和競爭關係 己 戊＜ 丙 甲 玻..",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -1177,12 +1177,12 @@
         },
         {
           "text": "(C) P、R",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(D) Q、S 玻璃管 •R",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         }
       ],
@@ -1199,12 +1199,12 @@
         },
         {
           "text": "(B) 甲應標示L，屬於冷氣團",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
           "text": "(C) 乙應標示H，屬於暖氣團",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
@@ -1226,12 +1226,12 @@
         },
         {
           "text": "(B) 正西方",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         },
         {
           "text": "(C) 正南方",
-          "isCorrect": true,
+          "isCorrect": false,
           "rationale": ""
         },
         {
@@ -1290,7 +1290,7 @@
         },
         {
           "text": "(D) 232",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": ""
         }
       ],
@@ -1307,7 +1307,7 @@
         },
         {
           "text": "(B) 請參閱上方圖片",
-          "isCorrect": false,
+          "isCorrect": true,
           "rationale": "選項以圖表/表格顯示在圖片中"
         },
         {
